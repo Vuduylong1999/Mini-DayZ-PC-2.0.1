@@ -1,0 +1,5416 @@
+<?xml version="1.0" ?>
+
+<list>
+
+<!--Feijão Enlatado-->
+<text>
+	<id>1</id>
+	<name>Uma lata de feijão cozido nutritiva e duradoura que dura de dois a cinco anos dependendo das condições de armazenamento.
+
+Comida: +30
+Água: +5
+</name>
+</text>
+
+<!--Atum enlatado-->
+<text>
+	<id>2</id>
+	<name>Uma lata de atum. Se não for aberto, durará de dois a cinco anos, dependendo das condições de armazenamento.
+
+Comida: +20
+</name>
+</text>
+
+<!--Bacon Tático-->
+<text>
+	<id>3</id>
+	<name>Uma lata de bacon. Sabor de fumaça adicionado! Totalmente cozido! Delicioso. Fechado, dura mais de 10 anos.
+
+Comida: +35
+</name>
+</text>
+
+<!--Arroz-->
+<text>
+	<id>4</id>
+	<name>Um saco de arroz de grão longo, geralmente consumido quando cozido com água. Convenientemente embalado para facilitar a preparação.
+
+Comida: +65
+</name>
+</text>
+
+<!--Tomate-->
+<text>
+	<id>5</id>
+	<name>Um tomate. Se deixarmos de lado o debate fruta-vegetal, ainda é saboroso e comestível, seja cru ou cozido.
+
+Comida: +15
+Água: +5
+Pilha máxima: 3
+Ingrediente para: Ovos mexidos com tomate
+Pode ser plantado com picareta, forcado ou pá
+</name>
+</text>
+
+<!--Maçã-->
+<text>
+	<id>6</id>
+	<name>Uma maçã madura comum. Ainda está firme, delicioso e sem vermes.
+
+Comida: +15
+Água: +5
+Pilha máxima: 3
+</name>
+</text>
+
+<!--Banana-->
+<text>
+	<id>7</id>
+	<name>Uma banana fresca, rica em potássio.
+
+Comida: +15
+Água: +5
+Pilha máxima: 3
+</name>
+</text>
+
+<!--Pipsi-->
+<text>
+	<id>8</id>
+	<name>Bebida gaseificada de sabor intenso, doce e refrescante, ideal para matar a sede com um toque de energia e sabor único.
+
+Água: +30
+</name>
+</text>
+
+<!--Spite-->
+<text>
+	<id>9</id>
+	<name>Bebida gaseificada de sabor cítrico e refrescante, perfeita para se hidratar com leveza e uma sensação vibrante de frescor.
+
+Água: +30
+</name>
+</text>
+
+<!--Kvas-->
+<text>
+	<id>10</id>
+	<name>ebida fermentada levemente adocicada e refrescante, feita de grãos e malte, com um sabor tradicional e levemente ácido.
+
+Água: +50
+</name>
+</text>
+
+<!--Munição 5.56x45-->
+<text>
+	<id>11</id>
+	<name>5.56x45mm Cartucho intermediário da OTAN. Usado em rifles e LMGs selecionados.
+
+Alojado em: M4A1, M16A2, L85A2, AUG A1, FAMAS F1, Mini-14
+
+Pilha máxima: 50
+</name>
+</text>
+
+<!--Munição .45 ACP-->
+<text>
+	<id>12</id>
+	<name>.45 ACP cartucho de pistola. Usado em pistolas e SMGs selecionadas.
+
+Alojado em: FNX 45, Colt 1911, Mini-UZI, UMP-45, KRISS Vector
+
+Pilha máxima: 60
+</name>
+</text>
+
+<!--Munição 7.62x54R-->
+<text>
+	<id>13</id>
+	<name>7.62x54mmR cartucho de potência total. Usado em rifles e LMGs selecionados.
+
+Alojado em: Mosin-Nagant, Sawn-off Mosin, SVD Dragunov, SV-98
+
+Pilha máxima: 40
+</name>
+</text>
+
+<!--Munição 7.62x39-->
+<text>
+	<id>14</id>
+	<name>7.62x39mm cartucho intermediário. Usado em rifles e LMGs selecionados.
+
+Alojado em: SKS, AKM, RPK
+
+Pilha máxima: 50
+</name>
+</text>
+
+<!--Munição 5.45x39-->
+<text>
+	<id>15</id>
+	<name>5.45x39mm cartucho intermediário. Usado em rifles selecionados.
+Alojado em: AKs-74U, AK-74, AN-94
+
+Pilha máxima: 50
+</name>
+</text>
+
+<!--Munição .357-->
+<text>
+	<id>16</id>
+	<name>.357 M cartucho de revólver. Usado em pistolas, revólveres e rifles selecionados.
+
+Alojado em: Magnum Revolver, Desert Eagle, Mare's Leg, M92 Repeater
+
+Pilha máxima: 50
+</name>
+</text>
+
+<!--Munição 12cal-->
+<text>
+	<id>17</id>
+	<name>Calibre 12 a concha do fanfarrão com 5 pellets. Usado em espingardas.
+
+Alojado em: IZh-43, Sawn-off IZh-43, Remington 870, Saiga-12K
+
+Pilha máxima: 30
+</name>
+</text>
+
+<!--Bandagem-->
+<text>
+	<id>18</id>
+	<name>Um rolo de atadura de gaze estéril. Pode ser usado para parar diretamente o sangramento.
+
+Tempo de aplicação: 2 seg
+Pilha máxima: 3
+</name>
+</text>
+
+<!--Bolsa de Sangue-->
+<text>
+	<id>19</id>
+	<name>Uma bolsa de sangue total [O−] com um conjunto intravenoso pronto para transfusão. Uso único para repor o sangue perdido devido a sangramento.
+
+Saúde: +50
+Vitalidade: +50
+Tempo de aplicação: 6 seg
+</name>
+</text>
+
+<!--Sinalizador-->
+<text>
+	<id>20</id>
+	<name>Fornece um pequeno raio de luz vermelha brilhante por um breve período. Pode ser lançado para iluminar uma área e atrair zumbis enquanto ela queima.
+
+Duração do efeito: 90 seg
+Pilha máxima: 5
+Ingrediente para: Molotov Cocktail
+</name>
+</text>
+
+<!--Granada F1-->
+<text>
+	<id>21</id>
+	<name>Tipo de granada de fragmentação usada pelas forças russas. É letal em raio pequeno, mas pode causar ferimentos graves em distâncias médias.
+
+Dano:  1800
+Dano por Fragmento:  75
+Tempo de fusãoː  2 seg
+Frags:  24
+</name>
+</text>
+
+<!--Bateria-->
+<text>
+	<id>22</id>
+	<name>Uma bateria comum de 9V, usada para alimentar vários dispositivos eletrônicos.
+</name>
+</text>
+
+<!--Kit de Fogueira-->
+<text>
+	<id>23</id>
+	<name>Após a implantação, pode ser usado até 3 vezes, dura passivamente por 3 minutos.
+</name>
+</text>
+
+<!--Fósforo-->
+<text>
+	<id>24</id>
+	<name>Uma caixa de longos fósforos de segurança de cozinha para acender uma chama quando necessário. Armazenar em local seco e longe do alcance das crianças.
+
+Pode acender um kit de fogueira ou cigarros
+</name>
+</text>
+
+<!--Uísque-->
+<text>
+	<id>25</id>
+	<name>Bebida alcoolica forte. Ao consumir, aquece o corpo por um periodo curto, ajudando a resistir ao frio em ambientes extremos.
+
+Água: +20
+Calor: +40
+Ingrediente para: Coquetel Molotov
+</name>
+</text>
+
+<!--Trapos-->
+<text>
+	<id>26</id>
+	<name>Uma variedade de trapos rasgados, ainda... podem ser usados ​​para estancar sangramentos.
+
+Tempo de aplicação: 5 seg
+Pilha máxima: 3
+Ingrediente para: Kit de fogueira, corda
+</name>
+</text>
+
+<!--Cereja-->
+<text>
+	<id>27</id>
+	<name>Essas frutinhas podem ser colhidos nos arbustos encontrados nas florestas, eles podem ser facilmente distinguidos por seus frutos vermelhos, maduros e suculentos.
+
+Comida: +15
+Água: +15
+Pilha máxima: 5
+</name>
+</text>
+
+<!--Soro fisiológico-->
+<text>
+	<id>28</id>
+	<name>Um saco de solução salina com um conjunto intravenoso pronto para transfusão. Usado para repor parte do sangue perdido devido a sangramento.
+
+Saúde: +25
+Vitalidade: +25
+Tempo de aplicação: 6 seg
+</name>
+</text>
+
+<!--Vitaminas-->
+<text>
+	<id>29</id>
+	<name>Suplementos multivitamínicos ajudam a aumentar o sangue para recuperar a saúde duas vezes mais rápido.
+
+Vitalidade: +10
+Regeneração de saúde: x2
+Duração do efeito: 60 seg
+Pilha máxima: 3
+</name>
+</text>
+
+<!--Coca Cola-->
+<text>
+	<id>30</id>
+	<name>Refrescante bebida de cola, com gás e sabor marcante, perfeita para se hidratar com um toque doce e estimulante.
+
+Água: +30
+</name>
+</text>
+
+<!--Abobrinha-->
+<text>
+	<id>31</id>
+	<name>Esta abobrinha está madura o suficiente para ser comida crua.
+
+Comida: +20
+Água: +20
+
+Pode ser plantado com picareta, forcado ou pá
+</name>
+</text>
+
+<!--Pimentão-->
+<text>
+	<id>32</id>
+	<name>Pimentão, variedade verde. Não é tão picante e tem muitos nutrientes e vitaminas, pode ser usado para cozinhar ou consumido cru.
+
+Comida: +20
+Água: +5
+Pilha máxima: 3
+Ingrediente para: Carne Frita com Pimentão
+Pode ser plantado com picareta, forcado ou pá
+</name>
+</text>
+
+<!--Laranja-->
+<text>
+	<id>33</id>
+	<name>Uma fruta cítrica popular, repleta de vitamina “C”
+
+Comida: +15
+Água: +15
+Pilha máxima: 3
+</name>
+</text>
+
+<!--Bolsa térmica:-->
+<text>
+	<id>34</id>
+	<name>Pequena fonte de calor descartável, mantém você aquecido por um tempo limitado quando colocado em uma jaqueta, calça ou colete.
+
+Calor: +25
+</name>
+</text>
+
+<!--Kit de costura-->
+<text>
+	<id>35</id>
+	<name>
+		Um kit de costura universal de bolso, útil para remendar várias roupas.
+
+		Pode restaurar 50% da durabilidade das roupas
+	</name>
+</text>
+
+<!--Kit de limpeza-->
+<text>
+	<id>36</id>
+	<name>Uma caixa de madeira contendo um sistema completo e universal de manutenção de armas.
+
+Pode restaurar 25% da durabilidade de armas de fogo
+</name>
+</text>
+
+<!--Bastão de Freixo-->
+<text>
+	<id>37</id>
+	<name>Um galho longo de madeira firme, porém flexível, proveniente de árvores nativas de freixo.
+
+Ingrediente para: Vara de pesca simples, Arco improvisado
+</name>
+</text>
+
+<!--Varetas de madeira-->
+<text>
+	<id>38</id>
+	<name>Peças de madeira multiuso. Ideal para fazer flechas, gravetos e barricadas. Gotas dos freixos nativos.
+
+Ingrediente para: Kit de fogueira, flechas artesanais, mochila improvisada, barricada de madeira
+Pilha máxima: 5
+</name>
+</text>
+
+<!--Fita adesiva-->
+<text>
+	<id>39</id>
+	<name>Uma fita adesiva larga versátil, forte e flexível. Se ele se mover e não deveria, use fita adesiva.
+
+Pode reparar 15% da durabilidade das roupas
+Pode consertar o barco na segunda ilha
+Ingrediente para: Supressor improvisado
+</name>
+</text>
+
+<!--Saco de estopa-->
+<text>
+	<id>40</id>
+	<name>O saco de estopa é ideal para transportar e armazenar coisas. um fechamento com cordão pode ser improvisado na parte superior da bolsa usando uma corda.
+
+Ingrediente para: Bolsa improvisada, lona
+</name>
+</text>
+
+<!--Corda-->
+<text>
+	<id>41</id>
+	<name>Corda forte, usada para amarrar coisas, sejam coisas ou pessoas.
+
+Pode ser usado para carregar uma arma corpo-a-corpo nas costas. Toque no espaço para a mão vazia para desequipar a arma.
+Ingrediente para: Bolsa tipo improvisada, arco improvisado, vara de pescar simples
+</name>
+</text>
+
+<!--Faca de caça-->
+<text>
+	<id>42</id>
+	<name>A faca de caça é uma ferramenta especializada projetada com ponta levemente curvada, principalmente para jogos de preparação de campo.
+
+Dano: 14-24
+Chance de Acerto Crítico: 10%
+Chance de Bloqueio: 5%
+Atraso por ataque: 0.8s
+</name>
+</text>
+
+<!--Canivete-->
+<text>
+	<id>43</id>
+	<name>Faca de combate afiada com lâmina resistente e cabo. Ótimo para autodefesa, mas também tem outros usos mais mundanos.
+
+Dano: 15-25
+Chance de Acerto Crítico: 15%
+Chance de Bloqueio: 5%
+Atraso por ataque: 0.8s
+</name>
+</text>
+
+<!--Faca de açougueiro-->
+<text>
+	<id>44</id>
+	<name>Uma faca grande, pesada e enferrujada. Projetado para cortar carne crua espessa. Também pode quebrar ossos facilmente. Usado principalmente por açougueiros.
+Dano: 16-26
+Chance de Acerto Crítico: 20%
+Chance de Bloqueio: 5%
+Atraso por ataque: 0.8s
+</name>
+</text>
+
+<!--Morfina-->
+<text>
+	<id>45</id>
+	<name>A morfina prepara seu corpo para situações de “luta ou fuga”, aumentando a frequência cardíaca, o fluxo sanguíneo e o estado de alerta.
+
+Efeito da droga: A barra de saúde é restaurada ao máximo e a velocidade de movimento aumenta em 15%, mas após 20 segundos a saúde cai para 20.
+Pilha máxima: 3
+</name>
+</text>
+
+<!--Tetraciclina-->
+<text>
+	<id>46</id>
+	<name>Antibióticos de amplo espectro. Usado para tratar doenças infecciosas virais, bacterianas e prevenir doenças.
+
+Vitalidade: +10
+Efeito da droga: Cura e previne doenças e envenenamentos durante a duração do efeito
+Duração do efeito: 60 seg
+Pilha máxima: 3
+</name>
+</text>
+
+<!--Pacote de sementes de tomate-->
+<text>
+	<id>47</id>
+	<name>O texto da embalagem diz: "Uma variedade útil para cultivo ao ar livre, mesmo nos verões chuvosos! Cultive essas plantas vigorosas e indeterminadas para produzir colheitas pesadas de frutas vermelhas profundas com um sabor muito bom".
+
+Usos: 5
+
+Pode ser plantado com picareta, forcado ou pá
+</name>
+</text>
+
+<!--Pacote de sementes de pimentão-->
+<text>
+	<id>48</id>
+	<name>O texto da embalagem diz: "Um pimentão grande e uma grande variedade para o sabor clássico do pimentão. Produz frutos grandes e em formato de bloco. Geralmente consumidos verdes, os frutos têm sabor adocicado e textura crocante".
+
+Usos: 5
+
+Pode ser plantado com picareta, forcado ou pá
+</name>
+</text>
+
+<!--Jornais-->
+<text>
+	<id>49</id>
+	<name>Jornais diários encontrados em casas antes do apocalipse, ainda contêm artesanato, guias e artigos úteis sobre sobrevivência e podem ser lidos para ganhar alguma experiência.
+
+Experiência: +50
+
+Ingrediente para: Kit de fogueira
+</name>
+</text>
+
+<!--Pilhas de lenha-->
+<text>
+	<id>50</id>
+	<name>Essa madeira é um material básico de sobrevivência. Pode ser obtido cortando árvores com machados ou armas brancas.
+
+Pode consertar o barco da primeira ilha
+
+Ingrediente para: Kit de fogueira, barricada de madeira, estoque de itens
+</name>
+</text>
+
+<!--Flecha Artesanal-->
+<text>
+	<id>51</id>
+	<name>Varas de madeira esculpidas com facas em flechas perfeitamente combinadas, mas são frágeis.
+
+Dano: 37-63
+Pilha máxima: 10
+75% chance de quebrar após disparar
+Pode ser carregado em: Arco Improvisado, Besta de Caça
+</name>
+</text>
+
+<!--Flecha Composta-->
+<text>
+	<id>52</id>
+	<name>Parafusos compostos de núcleo de alumínio modernos com alto impacto.
+
+Dano: 56-94
+Pilha máxima: 10
+Não quebrará após disparar
+Pode ser carregado em: Arco Improvisado, Besta de Caça
+</name>
+</text>
+
+<!--Galão de gasolina-->
+<text>
+	<id>53</id>
+	<name>Um galão de metal cheia de grandes volumes de gasolina.
+
+Usos: 4
+
+Fornece 25% de combustível para veículos e motosserra por uso
+Fornece combustível para o barco da terceira ilha
+</name>
+</text>
+
+<!--Garrafa de Água-->
+<text>
+	<id>54</id>
+	<name>Uma garrafa plástica reutilizável comum. Pode ser enchido com água de bombas d'água.
+
+Água: +12
+Usos: 4
+Pode ser enchido com água de uma bomba
+Pode coletar água da chuva quando deixada no chão durante a chuva
+Ingrediente para: Supressor improvisado
+</name>
+</text>
+
+<!--Cantil de água-->
+<text>
+	<id>55</id>
+	<name>Um Cantil plástico reutilizável de nível militar usada pelo exército e campistas. Pode ser enchido com água de bombas d'água.
+
+Água: +25
+Usos: 4
+Pode ser enchido com água de uma bomba
+</name>
+</text>
+
+<!--Mina terrestre-->
+<text>
+	<id>56</id>
+	<name>Mina antipessoal. Oferece uma surpresa desagradável para qualquer um que tenha o azar de pisar nele.
+
+Dano:  1800          Dano por Fragmento:  75
+Frags:  24                                                         
+Explode quando acionado por outras entidades além de você e seus colegas de equipe.
+</name>
+</text>
+
+<!--Armadilha para Ursos-->
+<text>
+	<id>57</id>
+	<name>Antiquada, mas funcional, esta maravilha da engenharia mecânica quase consegue quebrar sua perna ao meio.
+
+Dano: 200
+Pode ser reutilizado novamente
+Não acionado pelo jogador
+</name>
+</text>
+
+<!--Munição .22LR-->
+<text>
+	<id>58</id>
+	<name>.22 Cartucho de fogo anelar de rifle longo. Usado em pequenas pistolas e rifles.
+
+Alojado em: Ruger 10/22 Sporter, Amphibia S
+
+Pilha máxima: 80
+</name>
+</text>
+
+<!--Kit de ferramentas para carro-->
+<text>
+	<id>59</id>
+	<name>Kit contendo ferramentas mecânicas que podem ser usadas para reparar e restaurar veículos danificados.
+
+Capaz de reparar 25% da durabilidade dos veículos.
+</name>
+</text>
+
+<!--Bife Cru-->
+<text>
+	<id>60</id>
+	<name>Um pedaço cru de carne de veado. Carne mais dura e escura, pode ficar bem saborosa, depois de preparada.
+
+Comida: +25
+Água: +10
+50% de chance de ficar doente após o consumo
+Ingrediente para: Carne Frita com Pimentão
+Pode ser cozido em uma fogueira
+</name>
+</text>
+
+<!--Bife Assado-->
+<text>
+	<id>61</id>
+	<name>Bife de veado assado em uma fogueira com perfeição suculenta.
+
+Comida: +50
+Água: +10
+Saúde: +15
+</name>
+</text>
+
+<!--Nuka-Cola-->
+<text>
+	<id>62</id>
+	<name>Uma garrafa de Nuka-Cola, o refrigerante com sabor do mundo pós-nuclear. Quente e plano. Nukem revigorante e refrescante.
+
+Água: +100
+Experiência: +200
+Regeneração de saúde: x2
+Duração do efeito: 60 seg
+</name>
+</text>
+
+<!--Bebida Energética-->
+<text>
+	<id>63</id>
+	<name>Uma opção simples para uma dose de energia atlética, combina cafeína, vitaminas e um sabor familiar de Mountain Dew.
+
+Água: +20
+Velocidade de movimento: +15%
+Duração do efeito: 20 seg
+</name>
+</text>
+
+<!--Pacote de sementes de abobrinha-->
+<text>
+	<id>68</id>
+	<name>O texto da embalagem diz: "Esta é a nossa abobrinha mais popular. Uma planta precoce, muito produtiva, arbustiva e de hábito aberto. A polpa é deliciosa, de cor branca cremosa, macia e firme".
+
+Usos: 5
+
+Pode ser plantado com picareta, forcado ou pá
+</name>
+</text>
+
+<!--Munição 9x19-->
+<text>
+	<id>69</id>
+	<name>Cartucho de pistola parabellum 9x19mm. Usado em pistolas e SMGs selecionadas.
+
+Alojado em: Glock 17, MP5K, MAC-10
+
+Pilha máxima: 60
+</name>
+</text>
+
+<!--Arame farpado-->
+<text>
+	<id>70</id>
+	<name>Um rolo de arame farpado retorcido feito para cercar paredes e barreiras.
+
+Ingrediente para: Taco de beisebol farpado
+</name>
+</text>
+
+<!--Coelho cru-->
+<text>
+	<id>71</id>
+	<name>A perna posterior de um coelho. Quando assado proporciona um lanche bastante saboroso.
+
+Comida: +25
+Água: +10
+50% de chance de ficar doente após o consumo
+Ingrediente para: Carne Frita com Pimentão 
+Pode ser assado em uma fogueira
+</name>
+</text>
+
+<!--Coelho Assado-->
+<text>
+	<id>72</id>
+	<name>Perna de coelho assada na fogueira, macia e saborosa.
+
+Comida: +35
+Água: +10
+Saúde: +30
+</name>
+</text>
+
+<!--Framboesa amarela-->
+<text>
+	<id>73</id>
+	<name>Essas frutinhas só podem ser encontradas perto de lagos. Embora muito saudável, esta baga incomum exala um odor almiscarado.
+
+Comida: +10
+Água: +10
+Regeneração de saúde: x2
+Duração do efeito: 30 seg
+Pilha máxima: 5
+</name>
+</text>
+
+<!--Mirtilos-->
+<text>
+	<id>74</id>
+	<name>Os mirtilos podem ser colhidos nos arbustos encontrados nas florestas. Estas bagas são tão suculentas com o maior teor de água em comparação com outras bagas.
+
+Comida: +10
+Água: +20
+Pilha máxima: 5
+</name>
+</text>
+
+<!--Rádio-->
+<text>
+	<id>75</id>
+	<name>Um dispositivo, como um walkie-talkie, que transmite ou recebe sinais de rádio. Sua frequência definida atual capta os fracos sinais de rádio de veículos militares acidentados.
+
+Usos: 10
+Tem 12,5% de chance de localizar um bunker subterrâneo
+</name>
+</text>
+
+<!--RDS-->
+<text>
+	<id>76</id>
+	<name>Uma óptica padronizada montada em trilho, sem ampliação, com um ponto vermelho projetado na lente.
+
+Chance de tiro na cabeça: +5%
+Dispersão: -2
+Pode ser instalado em: MP5K, UMP-45,KRISS Vector, AKs-74U, AK-74, AN-94, AKM, M4A1, M16A2, L85A2, FN-FAL, RPK, Saiga-12K, PP-19 Bizon, OTs-14 Groza, VSS Vintorez, SV-98, Mini-14
+</name>
+</text>
+
+<!--PU Scope-->
+<text>
+	<id>77</id>
+	<name>Scope 3,5x da fabricação soviética da era da Segunda Guerra Mundial.
+
+Chance de tiro na cabeça: +15%
+Dispersão: -4
+Pode ser instalado em: SKS, Mosin-Nagant, M70, Blaze
+</name>
+</text>
+
+<!--PSO-1 Scope-->
+<text>
+	<id>78</id>
+	<name>Mira telescópica Marksman com ampliação fixa de 4x e compensação balística na faixa de 100m a 1000m.
+
+Chance de tiro na cabeça: +15%
+Dispersão: -4
+Pode ser instalado em: AKs-74U, AK-74, AN-94, AKM, RPK, PP-19 Bizon, OTs-14 Groza, VSS Vintorez
+</name>
+</text>
+
+<!--ACOG Scope-->
+<text>
+	<id>79</id>
+	<name>Mira óptica de combate avançada com nível de ampliação de 4x. Acoplável a qualquer arma com sistema de trilho padronizado.
+
+Chance de tiro na cabeça: +15%
+Dispersão: -4
+Pode ser instalado em: MP5K, UMP-45, KRISS Vector, M4A1, M16A2, L85A2, FN-FAL, SV-98, Mini-14
+</name>
+</text>
+
+<!--5.45 Supressor-->
+<text>
+	<id>80</id>
+	<name>Fixação para o cano de uma arma de fogo, reduz a quantidade de ruído gerado pelo disparo. Esta variante foi projetada para o calibre 5,45 mm.
+Pode ser instalado em: AKs-74U, AN-94, AK-74
+</name>
+</text>
+
+<!--5.56 Supressor-->
+<text>
+	<id>81</id>
+	<name>Fixação para o cano de uma arma de fogo, reduz a quantidade de ruído gerado pelo disparo. Esta variante foi projetada para o calibre 5,56 mm.
+Pode ser instalado em: M4A1, M16A2, L85A2, AUG A1
+</name>
+</text>
+
+<!--Serra-->
+<text>
+	<id>82</id>
+	<name>Uma serra manual de dentes finos com uma lâmina mantida sob tensão em uma estrutura, usada para cortar materiais como metal ou plástico.
+
+Serrável:  M92 Repeater, IZh-43, Blaze, Mosin Nagant
+</name>
+</text>
+
+<!--Bandoleira-->
+<text>
+	<id>83</id>
+	<name>Anexada à coronha do rifle, a bandoleira é projetada para manter a munição prontamente disponível durante a caça e o combate.
+
+Velocidade de recarga: +30%
+
+Pode ser instalado em: IZh-43, Remington 870, SKS, Mosin-Nagant, M92 Repeater, M70, Blaze
+</name>
+</text>
+
+<!--MRE-->
+<text>
+	<id>85</id>
+	<name>Refeição pronta para comer [MRE], é uma ração de campo individual e independente destinada ao uso militar. Essas rações são projetadas para fornecer uma refeição completa e balanceada para uma pessoa.
+
+Comida: +40
+Água: +40
+Usos: 2
+</name>
+</text>
+
+<!--Vara de pesca giratória-->
+<text>
+	<id>86</id>
+	<name>Uma vara de pescar extensível. Altamente portátil, faz com que a pesca pareça simples.
+
+Usos: 10
+</name>
+</text>
+
+<!--Vara de pesca simples-->
+<text>
+	<id>87</id>
+	<name>Um pedaço de corda amarrado a uma vara. Esta invenção maravilhosa pode ser surpreendentemente útil, mas é muito frágil.
+
+Usos: 4
+</name>
+</text>
+
+<!--Capa protetora-->
+<text>
+	<id>88</id>
+	<name>Uma caixa amarela perdida selada com saque pertence ao grupo de sobreviventes neutros.
+
+Contém itens perdidos de um grupo de sobreviventes neutros.
+Pode ser devolvido a eles por boa vontade ou aberto para saque ao custo de carma
+</name>
+</text>
+
+<!--Magpul-->
+<text>
+	<id>89</id>
+	<name>Anexado no final de uma revista, facilita o trabalho de trocar revistas de bolsas, bolsos ou bolsas.
+
+Velocidade de recarga: +30%
+
+Pode ser instalado em: AKs-74U, AK-74, AN-94, AKM, M4A1, M16A2, L85A2, FN-FAL, AUG A1, RPK, Saiga-12K, OTs-14 Groza, VSS Vintorez, FAMAS F1, Mini-14
+</name>
+</text>
+
+<!--Choke-->
+<text>
+	<id>90</id>
+	<name>O Choke comprime a extremidade do cano para alterar o tiro em um padrão concentrado.
+
+Reduz a propagação de projéteis de espingarda
+Pode ser instalado em: IZh-43, Remington 870, Saiga-12K
+</name>
+</text>
+
+<!--arenque-->
+<text>
+	<id>91</id>
+	<name>Arenque, pequeno peixe prateado forrageiro conhecido por seu corpo aerodinâmico e escamas iridescentes.
+
+Comida: +10
+Água: +10
+50% de chance de ficar doente após o consumo
+Pode ser assado em uma fogueira
+</name>
+</text>
+
+<!--Salmão-->
+<text>
+	<id>92</id>
+	<name>Salmão, um grupo diversificado de peixes conhecido por seus padrões migratórios, movendo-se entre habitats de água doce e salgada.
+
+Comida: +35
+Água: +15
+50% de chance de ficar doente após o consumo
+Pode ser assado em uma fogueira
+</name>
+</text>
+
+<!--Ruffe-->
+<text>
+	<id>93</id>
+	<name>Ruffe, um pequeno peixe de água doce, normalmente com cerca de 10 a 15 centímetros de comprimento, com corpo esguio e alongado.
+
+Comida: +10
+Água: +10
+50% de chance de ficar doente após o consumo
+Pode ser assado em uma fogueira
+</name>
+</text>
+
+<!--Poleiro-->
+<text>
+	<id>94</id>
+	<name>Os poleiros são conhecidos por terem duas barbatanas dorsais, uma espinhosa e outra macia, e são tipicamente carnívoros que vivem no fundo.
+
+Comida: +35
+Água: +15
+50% de chance de ficar doente após o consumo
+Pode ser cozido em uma fogueira
+</name>
+</text>
+
+<!--Filé Pequeno assado-->
+<text>
+	<id>95</id>
+	<name>Pequeno filé de peixe assado na fogueira para um lanche saboroso e de tamanho decente.
+
+Comida: +25
+Água: +10
+Saúde: +10
+</name>
+</text>
+
+<!--Filé assado Grande-->
+<text>
+	<id>96</id>
+	<name>Filé de peixe preparado na fogueira. Está totalmente assado, em flocos, macio e recheado.
+
+Comida: +50
+Água: +10
+Saúde: +10
+</name>
+</text>
+
+<!--🍄Cogumelo-->
+<text>
+	<id>97</id>
+	<name>🍄Viagem ruim garantida🍄
+"ᴛᴇᴄʜɴᴏʙʟᴀᴅᴇ ɴᴜɴᴄᴀ ᴍᴏʀʀᴇ"
+y҉̃̀̋̑ = ḿ̬̏ͤͅx̛̘̠̹͋ + b̬͖̏́͢                           "𝓞𝓱𝓲𝓸 𝓼𝓴𝓲𝓫𝓲𝓭𝓲 𝓰𝔂𝓪𝓽𝓽 𝓼𝓲𝓰𝓶𝓪 𝓬𝓱𝓪𝓻𝓶𝓮"
+Ｍ Ｅ Ｔ Ａ Ｍ Ｏ Ｒ Ｆ Ｏ Ｓ Ｅ  ∀ןıǝns      
+ᗩᒪIEᑎᔕ       ƵØm̷ƀɨɇs̷    🕴🐟 E=mc² 🍅🙊ᴮʳᵘʰ
+ʜᴜᴄᴋʟᴇ ʙᴇʀʀʏ ғɪɴɴ  ሠዐዪረዕ የቿልርቿ    😐︎♋︎●︎♋︎⬧︎♒︎■︎♓︎🙵□︎❖︎
+                      K͓̽a͓̽l͓̽a͓̽s͓̽h͓̽n͓̽i͓̽k͓̽o͓̽v͓̽       ₑₙ𝓭ₑᵣₘₐₙ 𝓃ₐₒ ₚₒdₑ ₙₐdₐr
+</name>
+</text>
+
+<!--Long-Range Scope-->
+<text>
+	<id>98</id>
+	<name>Mira de rifle com zoom variável. Padrão de fábrica zerado para 200m e ajustável manualmente para 800m.
+
+Chance de tiro na cabeça: +25%
+Dispersão: -6
+Pode ser instalado em: SKS, Mosin-Nagant, SVD Dragunov, SV-98, M70, Blaze, Mini-14, FN-FAL
+</name>
+</text>
+
+<!--Claymore-->
+<text>
+	<id>99</id>
+	<name>Mina explosiva direcional. Uma etiqueta conveniente lembra o usuário de apontá-lo para o inimigo.
+
+Dano:  1575
+Dano por Fragmento:  75
+Frags:  21
+Explode e dispara fragmentos em uma direção específica, quando acionado por entidades que não sejam você e seus companheiros de equipe.
+</name>
+</text>
+
+<!--Munição 9x18mm-->
+<text>
+	<id>100</id>
+	<name>Pistola Makarov 9x18mm. Usado em pistolas e SMGs selecionadas.
+
+Alojado em: PM, PB, PP-19 Bizon
+
+Pilha máxima: 60
+</name>
+</text>
+
+<!--Munição 9x39mm Ammo-->
+<text>
+	<id>101</id>
+	<name>Cartucho subsônico intermediário de 9x39mm. Usado em rifles selecionados.
+
+Alojado em: VSS Vintorez, OTs-14 Groza
+
+Pilha máxima: 50
+</name>
+</text>
+
+<!--Coquetel Molotov-->
+<text>
+	<id>102</id>
+	<name>Um coquetel molotov incendiário, improvisado anexando um sinalizador a uma garrafa de um bom uísque, surpreendentemente faz o trabalho.
+</name>
+</text>
+
+<!--Pistola sinalizadora-->
+<text>
+	<id>103</id>
+	<name>Uma pistola sinalizadora de uso único carregada com um cartucho sinalizador. Quando disparada, sinaliza para uma caixa de suprimento de lançamento aéreo de nível aleatório.
+
+Pode atrair zumbis próximos
+</name>
+</text>
+
+<!--Munição .50-->
+<text>
+	<id>104</id>
+	<name>O tipo específico de munição calibre .50 e sua disponibilidade em configurações alimentadas por correia podem ser muito baseados, para aplicação em torres de canhão.
+
+Munição usada na torre de canhão do humvee
+</name>
+</text>
+
+<!--Granada de 40 mm-->
+<text>
+	<id>105</id>
+	<name>Encargos para o lançador de granadas subterrâneo M203. Explode com o impacto.
+
+Dano:  540
+Dano por Fragmento:  45
+Frags:  12
+Pilha máxima: 10
+</name>
+</text>
+
+<!--Granada VOG-25-->
+<text>
+	<id>106</id>
+	<name>Cobranças pelo lançador de granadas GP-25 sob o cano. Explode com o impacto.
+
+Dano:  540
+Dano por Fragmento:  45
+Frags:  12
+Pilha máxima: 10
+Ingrediente para: VOG-25 Khatabka
+</name>
+</text>
+
+<!--M203-->
+<text>
+	<id>107</id>
+	<name>O M203 é um lançador de granadas sob o cano, de tiro único, de 40 mm, carregado pela boca, projetado para ser acoplado a um rifle. É ao estilo ocidental.
+Pode carregar e disparar granadas de 40 mm
+Pode ser instalado em: M4A1, M16A2, L85A2, FN-FAL, FAMAS F1
+</name>
+</text>
+
+<!--GP-25-->
+<text>
+	<id>108</id>
+	<name>O GP-25 pertence à família de lançadores de granadas russos que cabem em rifles de assalto AK, carregados pela boca.
+Pode carregar e disparar granadas VOG-25
+Pode ser instalado em: AK-74, AKM, AN-94
+</name>
+</text>
+
+<!--Kit IV-->
+<text>
+	<id>109</id>
+	<name>O conjunto intravenoso junto com uma bolsa de sangue estéril pode ser usado para coletar seu próprio sangue para um único uso no futuro.
+Transforma-se em bolsa de sangue após transfusão
+</name>
+</text>
+
+<!--Pedra de amolar-->
+<text>
+	<id>110</id>
+	<name>A pedra de amolar pode ser usada para afiar as pontas de várias armas brancas e ferramentas.
+Pode restaurar 25% de durabilidade de algumas armas brancas
+</name>
+</text>
+
+<!--AK Grip-->
+<text>
+	<id>111</id>
+	<name>Frontal tático universal para armas da série AK.
+
+Reduz bastante o recuo ao disparar
+Pode ser instalado em: AK-74, AKM, RPK
+Ingrediente para: Laser AK Grip
+</name>
+</text>
+
+<!--Rail Grip-->
+<text>
+	<id>112</id>
+	<name>Foregrip para armas de fogo com trilhos picatinny.
+
+Reduz bastante o recuo ao disparar
+Pode ser instalado em: UMP-45, M4A1, L85A2, KRISS Vector
+Ingrediente para: Laser Rail Grip 
+</name>
+</text>
+
+<!--Notas do mapa-->
+<text>
+	<id>113</id>
+	<name>Um mapa com algumas marcações contém notas sobre locais interessantes, pontos de controle e veículos na ilha atual.
+
+Se não for usado nesta ilha, desaparecerá do inventário na próxima ilha
+</name>
+</text>
+
+<!--Sabugueiro-->
+<text>
+	<id>114</id>
+	<name>Os sabugueiros são pequenos frutos pretos de cor roxa escura, conhecidos por seu sabor cremoso e perfumado e ricos em nutrientes. Eles crescem apenas em pântanos.
+
+Comida: +10
+Água: +10
+Saúde: +2
+Pilha máxima: 5
+</name>
+</text>
+
+<!--Binóculos-->
+<text>
+	<id>115</id>
+	<name>Velho, mas confiável. Com ele, qualquer silhueta distante pode ser a diferença entre viver ou cair numa emboscada.
+</name>
+</text>
+
+<!--Manual do Escoteiro-->
+<text>
+	<id>116</id>
+	<name>O manual do escoteiro fornece um guia completo para atividades de escotismo, cobrindo áreas como acampamento, habilidades de sobrevivência, primeiros socorros e liderança.
+
+Experiência: +200
+</name>
+</text>
+
+<!--Tela-->
+<text>
+	<id>117</id>
+	<name>Sacos de estopa enrolados em rolo para uso posterior.
+
+Ingrediente para: Estoque de itens
+</name>
+</text>
+
+<!--Gesso adesivo-->
+<text>
+	<id>118</id>
+	<name>Um tipo de esparadrapo com propriedades adesivas, pode ser usado para estancar o sangramento diretamente em um instante.
+
+Tempo de aplicação: 1 seg
+Pilha máxima: 5
+</name>
+</text>
+
+<!--Granada de fumaça-->
+<text>
+	<id>119</id>
+	<name>Granada de fumaça usada pelas forças ocidentais. A fumaça é incolor, pode fornecer cobertura completa contra inimigos.
+</name>
+</text>
+
+<!--Cigarros-->
+<text>
+	<id>120</id>
+	<name>Os "cigarros russos" cheios de um tabaco potente e rico em nicotina chamado makhorka foram populares durante toda a era soviética.
+
+Calor: +5
+Efeito da droga: interrompe a fome e a sede enquanto o efeito está ativo
+Duração do efeito: 30 seg
+Pilha máxima: 10
+Ganhe +5 Karama se você presentear um sobrevivente
+</name>
+</text>
+
+<!--Cerveja-->
+<text>
+	<id>121</id>
+	<name>As latas de cerveja geralmente duram de 6 a 9 meses em temperatura ambiente, o sabor é um pouco estranho, mas ainda é refrescantemente doce.
+
+Água: +20
+Calor: +10
+</name>
+</text>
+
+<!--Cola Epóxi-->
+<text>
+	<id>122</id>
+	<name>A cola epóxi é um adesivo forte de duas partes feito de resina epóxi e um endurecedor.
+
+Reparar: +25%
+</name>
+</text>
+
+<!--Fertilizante-->
+<text>
+	<id>123</id>
+	<name>Composto por matéria vegetal e resíduos animais, é rico em nutrientes essenciais que as plantas adoram.
+
+Aumenta a taxa de crescimento das plantas
+</name>
+</text>
+
+<!--Mira Laser-->
+<text>
+	<id>124</id>
+	<name>mira a laser projeta um feixe de laser em um alvo, auxiliando na velocidade de mira e na recuperação de recuo..
+
+Velocidade de mira e velocidade de recuperação de recuo +30%
+Pode ser instalado em: UMP-45, KRISS Vector, AKs-74U, AK-74, AN-94, AKM, M4A1, L85A2, RPK, Mosin-Nagant, SKS, SVD Dragunov, SV-98, VSS Vintorez, M70, Saiga-12K, Blaze, Mini-14
+Ingrediente para: Laser AK Grip, Laser Rail Grip
+</name>
+</text>
+
+<!--Isqueiro-->
+<text>
+	<id>125</id>
+	<name>O isqueiro cria uma chama usando um sistema de ignição mecânica, alimentado por um mecanismo de pedra e roda.
+
+Usos: 100
+Pode acender um kit de fogueira ou acender cigarros
+</name>
+</text>
+
+<!--Cartão-chave do oficial-->
+<text>
+	<id>126</id>
+	<name>O cartão-chave de um oficial. Uma chave crítica para gerenciar o acesso a áreas sensíveis, equipamentos autorizados e manter a segurança dentro de uma instalação militar.
+
+Pode desbloquear portas especiais em bunkers subterrâneos
+Funciona apenas para bunkers na ilha atual
+</name>
+</text>
+
+<!--Supressor Improvisado-->
+<text>
+	<id>127</id>
+	<name>Um supressor DIY caseiro que pode reduzir alguns ruídos de armas de fogo. Simplesmente funciona.
+
+Pode ser instalado em: M4A1, M16A2, L85A2, AUG A1, FN-FAL, AKs-74U, AN-94, AK-74, AKM, FAMAS F1, Mini-14
+</name>
+</text>
+
+<!--PVS-4 Visão Noturna Scope-->
+<text>
+	<id>128</id>
+	<name>Uma lupa padronizada de 3,5x montada em trilho com visão noturna, feita para armas de fogo da OTAN.
+
+Taxa de tiro na cabeça: +15%
+Dispersão: -4
+Pode ser instalado em: MP5K, UMP-45, KRISS Vector, M4A1, M16A2, L85A2, FN-FAL, SV-98, Mini-14
+</name>
+</text>
+
+<!--1PN51 Night Vision Scope-->
+<text>
+	<id>129</id>
+	<name>Uma lupa de 3,5x montada na lateral com visão noturna, adequada para armas de fogo do Pacto de Varsóvia.
+
+Taxa de tiro na cabeça +15%
+Dispersão: -4
+Pode ser instalado em: AKs-74U, AK-74, AN-94, AKM, RPK, PP-19 Bizon, OTs-14 Groza, VSS Vintorez, Saiga-12K
+</name>
+</text>
+
+<!--C-MAG 5.56 Drum-->
+<text>
+	<id>130</id>
+	<name>Um Mag. de tambor duplo 5,56x45 de 100 cartuchos.
+
+Pode ser instalado em: M4A1, M16A2, AUG A1
+</name>
+</text>
+
+<!--7.62x39 Drum Mag-->
+<text>
+	<id>131</id>
+	<name>Um tambor Mag. de 75 cartuchos 7,62x39.
+
+Pode ser instalado em: AKM, RPK
+</name>
+</text>
+
+<!--Frigideira-->
+<text>
+	<id>132</id>
+	<name>Bom apetite
+
+Pode preparar: Ovos fritos, ovos mexidos com tomate, carne frita com pimentão
+</name>
+</text>
+
+<!--Máscara de Gás-->
+<text>
+	<id>133</id>
+	<name>Uma forma de equipamento de proteção individual (EPI) que protege o usuário da inalação de poluentes atmosféricos e gases tóxicos.
+
+Calor: +2
+Fornece imunidade contra áreas contaminadas com gases tóxicos, a durabilidade se desgasta constantemente em áreas contaminadas.
+Pode ser usado como um forro para usar outro equipamento de cabeça em cima dele.
+Clique no slot vazio da cabeça para desequipá-lo quando usado como revestimento
+</name>
+</text>
+
+<!--Balaclava-->
+<text>
+	<id>134</id>
+	<name>Uma cobertura de cabeça justa que protege a cabeça, o rosto e o pescoço, deixando apenas os olhos ou partes do rosto expostos.
+
+Calor: +3
+Pode ser usado como um forro para usar outro equipamento de cabeça em cima dele.
+Clique no slot vazio da cabeça para desequipá-lo quando usado como revestimento
+</name>
+</text>
+
+<!--Máscara de gás GP5-->
+<text>
+	<id>135</id>
+	<name>Máscara de gás soviética completa com montagem frontal para cartuchos de filtro. Usado para proteger contra poluentes atmosféricos e ar contaminado.
+
+Calor: +2
+Fornece imunidade contra áreas contaminadas com gases tóxicos, tem mais durabilidade, mas desgasta-se constantemente em áreas contaminadas.
+Pode ser usado como um forro para usar outro equipamento de cabeça em cima dele.
+Clique no slot vazio da cabeça para desequipá-lo quando usado como revestimento
+</name>
+</text>
+
+<!--Máscara de palhaço-->
+<text>
+	<id>136</id>
+	<name>O capacete preferido dos palhaços em torno dos bandidos degenerados da ilha.
+
+Calor: +1
+Pode ser usado como um forro para usar outro equipamento de cabeça em cima dele.
+Clique no slot vazio da cabeça para desequipá-lo quando usado como revestimento
+</name>
+</text>
+
+<!--Nucleo de Controle -->
+<text>
+	<id>137</id>
+	<name>"Bem vindo ao Minidayz+"
+</name>
+</text>
+
+<!--Munição .308-->
+<text>
+	<id>138</id>
+	<name>.308 Cartucho de potência total Winchester. Usado em rifles selecionados.
+
+Alojado em: M70, FN-FAL, Blaze, Sawn-Off Blaze, Longhorn
+
+Pilha máxima: 40
+</name>
+</text>
+
+<!--Tênis-->
+<text>
+	<id>139</id>
+	<name>Um par de tênis comum.
+
+Velocidade de Movimento: +5%
+Pode ser danificado ao pisar em ácido
+</name>
+</text>
+
+<!--Botas da floresta-->
+<text>
+	<id>140</id>
+	<name>Botas para floresta projetadas para ambientes úmidos.
+
+Velocidade de Movimento: +5%
+Ignora penalidade de desaceleração do pântano
+Pode ser danificado ao pisar em ácido
+</name>
+</text>
+
+<!--Botas de assalto-->
+<text>
+	<id>141</id>
+	<name>Projetado para soldados em combate.
+
+Velocidade de Movimento: +10%
+Ignora penalidade de desaceleração do pântano
+Um canivete pode ser armazenado
+Pode ser danificado ao pisar em ácido
+</name>
+</text>
+
+<!--Bandoleira-->
+<text>
+	<id>142</id>
+	<name>Pode carregar uma arma primária extra nas costas.
+Clique no slot de arma vazio para desequipar
+</name>
+</text>
+
+<!--Pastilhas de carvão-->
+<text>
+	<id>143</id>
+	<name>Comprimidos de carvão ativado que podem filtrar toxinas.
+Pode reabastecer 50% da durabilidade de uma máscara de gás
+</name>
+</text>
+
+<!--Maçarico-->
+<text>
+	<id>144</id>
+	<name>Pode soldar 25% de durabilidade de veículos ou equipamentos metálicos.
+Pode reforçar um veículo com placas de metal
+Ingrediente para: Veículo reforçado II
+</name>
+</text>
+
+<!--Traje Ghillie-->
+<text>
+	<id>145</id>
+	<name>Traje de camuflagem usado para esconder completamente o usuário em um ambiente natural.
+
+Fornece um estado furtivo quando a durabilidade é ≥ 50%. Neste estado, os inimigos próximos não conseguem localizar você.
+Movimento e ataque contínuos removerão a furtividade
+</name>
+</text>
+
+<!--Lanterna Underbarrel-->
+<text>
+	<id>146</id>
+	<name>Lanterna montada sob o cano para armas primárias, fornece iluminação à noite.
+
+Pode ser instalado em: UMP-45, KRISS Vector, AKs-74U, AK-74, AN-94, AKM, M4A1, L85A2, AUG A1, RPK, Mosin-Nagant, SKS, SVD Dragunov, SV-98, VSS Vintorez, M70, Saiga-12K, Blaze, Mini-14
+</name>
+</text>
+
+<!--Laser AK Grip-->
+<text>
+	<id>147</id>
+	<name>Punho frontal universal e mira laser montada na lateral para armas de fogo da série AK.
+Reduz bastante o recuo ao disparar
+Velocidade de mira e velocidade de recuperação de recuo +30%
+
+Pode ser instalado em: AK-74, AKM, RPK
+</name>
+</text>
+
+<!--Laser Rail Grip-->
+<text>
+	<id>148</id>
+	<name>Foregrip e mira laser para armas de fogo com trilhos Picatinny.
+Reduz bastante o recuo ao disparar
+Velocidade de mira e velocidade de recuperação de recuo +30%
+
+Pode ser instalado em: UMP-45, KRISS Vector, M4A1, L85A2
+</name>
+</text>
+
+<!--FNX 45-->
+<text>
+	<id>211</id>
+	<name>Uma pistola de dupla ação com ergonomia altamente aprimorada.
+Dano: 21-35
+Dispersão: 20-6
+Velocidade de mira: 4
+Recuo: 9
+Penalidade de Movimento: 2
+Munição: .45 ACP
+Capacidade do pente: 15
+</name>
+</text>
+
+<!--Colt 1911-->
+<text>
+	<id>212</id>
+	<name>"Deus criou os homens, Colt os tornou iguais".
+Dano: 18-30
+Dispersão: 20-6
+Velocidade de mira: 4
+Recuo: 10
+Penalidade de Movimento: 2
+Munição: .45 ACP
+Capacidade do pente: 7
+</name>
+</text>
+
+<!--Revólver Magnum-->
+<text>
+	<id>213</id>
+	<name>Revólver de dupla ação de seis tiros, pode causar danos excepcionais.
+Dano: 34-56
+Dispersão: 20-6
+Velocidade de mira: 2
+Recuo: 15
+Penalidade de Movimento: 3
+Munição: .357
+Capacidade do pente: 6
+</name>
+</text>
+
+<!--Glock 17-->
+<text>
+	<id>214</id>
+	<name>Acessível, confiável e compacto, é muito popular nos EUA.
+Dano: 15-25
+Dispersão: 20-5
+Velocidade de mira: 4
+Recuo: 10
+Penalidade de Movimento: 2
+Munição: 9x19
+Capacidade do pente: 18
+</name>
+</text>
+
+<!--Amphibia S-->
+<text>
+	<id>215</id>
+	<name>A AWC TM-Amphibian S é uma variante integralmente suprimida da pistola Ruger Mk II Target .22 LR.
+Dano: 11-19
+Dispersão: 20-4
+Velocidade de mira: 4
+Recuo: 9
+Penalidade de Movimento: 3
+Munição: 22 LR
+Capacidade do pente: 10
+</name>
+</text>
+
+<!--Sawn-Off IZh-43-->
+<text>
+	<id>216</id>
+	<name>Espingarda serrada de cano duplo e break-action.
+Dano: 22-188
+Dispersão: 30-13
+Velocidade de mira: 3
+Recuo: 20
+Penalidade de Movimento: 2
+Munição: 12 Cal
+Capacidade do pente: 2
+</name>
+</text>
+
+<!--Sawn-Off Mosin-->
+<text>
+	<id>217</id>
+	<name>Rifle serrado de cinco tiros, alimentado por carregador interno.
+Dano: 67-113
+Dispersão: 25-12
+Velocidade de mira: 3
+Recuo: 25
+Penalidade de Movimento: 1
+Munição: 7.62x54R
+Capacidade do pente: 5
+</name>
+</text>
+
+<!--Engraved Colt-->
+<text>
+	<id>218</id>
+	<name>Esta variante do potro foi meticulosamente gravada.
+Dano: 18-30
+Dispersão: 20-5
+Velocidade de mira: 4
+Recuo: 10
+Penalidade de Movimento: 2
+Munição: .45 ACP
+Capacidade do pente: 12
+</name>
+</text>
+
+<!--MAC-10-->
+<text>
+	<id>219</id>
+	<name>A Corporação de Armamento Militar modelo 10 ou MAC-10. Uma submetralhadora compacta.
+Dano: 15-25
+Dispersão: 20-10
+Velocidade de mira: 3
+Recuo: 2
+Penalidade de Movimento: 0
+Taxa de disparo: 650 RPM
+Munição: 9x19
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--Mare's Leg-->
+<text>
+	<id>220</id>
+	<name>"Este é um país selvagem aqui, senhora." -Josh Randall.
+Dano: 34-56
+Dispersão: 25-11
+Velocidade de mira: 3
+Recuo: 17
+Penalidade de Movimento: 2
+Munição: .357
+Capacidade do pente: 7
+</name>
+</text>
+
+<!--PM-->
+<text>
+	<id>221</id>
+	<name>A pistola Makarov, ou PM, é uma pistola semiautomática soviética conhecida por sua simplicidade, robustez e confiabilidade.
+Dano: 18-30
+Dispersão: 20-8
+Velocidade de mira: 4
+Recuo: 10
+Penalidade de Movimento: 2
+Munição: 9x18
+Capacidade do pente: 8
+</name>
+</text>
+
+<!--PB-->
+<text>
+	<id>222</id>
+	<name>Uma pistola semiautomática soviética totalmente suprimida desenvolvida para operações especiais secretas da KGB e Spetsnaz.
+Dano: 18-30
+Dispersão: 20-9
+Velocidade de mira: 4
+Recuo: 8
+Penalidade de Movimento: 2
+Munição: 9x18
+Capacidade do pente: 8
+</name>
+</text>
+
+<!--Desert Eagle-->
+<text>
+	<id>223</id>
+	<name>Uma arma icônica, conhecida por sua aparência grande e distinta e alto poder de parada.
+Dano: 30-50
+Dispersão: 20-6
+Velocidade de mira: 3
+Recuo: 13
+Penalidade de Movimento: 2
+Munição: .357
+Capacidade do pente: 9
+</name>
+</text>
+
+<!--M79-->
+<text>
+	<id>224</id>
+	<name>Lançador de granadas de ação rápida. Pode parecer antiquado, mas ainda assim eficaz.
+Dano: 45-855
+Dispersão: 30-8
+Velocidade de mira: 3
+Recuo: 6
+Penalidade de Movimento: 2
+Munição: 40mm grenade
+Capacidade do pente: 1
+</name>
+</text>
+
+<!--Sawn-Off Blaze-->
+<text>
+	<id>225</id>
+	<name>Rifle serrado de cano duplo e break-action.
+Dano: 64-106
+Dispersão: 25-12
+Velocidade de mira: 3
+Recuo: 10
+Penalidade de Movimento: 2
+Munição: .308
+Capacidade do pente: 2
+</name>
+</text>
+
+<!--Longhorn-->
+<text>
+	<id>226</id>
+	<name>Pistola de caça com ação de quebra de tiro único. Adequado para caça, vem com mira integrada.
+Dano: 67-113
+Dispersão: 20-1
+Velocidade de mira: 2
+Recuo: 25
+Penalidade de Movimento: 2
+Munição: .308
+Capacidade do pente: 1
+Chance de tiro na cabeça: +15%
+</name>
+</text>
+
+<!--Mini-UZI-->
+<text>
+	<id>226</id>
+	<name>Uma versão menor e mais compacta da submetralhadora UZI original.
+Dano: 18-30
+Dispersão: 20-10
+Velocidade de mira: 3
+Recuo: 2
+Penalidade de Movimento: 0
+Taxa de disparo: 600 RPM
+Munição: .45 ACP
+Capacidade do pente: 22
+</name>
+</text>
+
+<!--Nulo-->
+<text>
+	<id>230</id>
+	<name>Clique para desequipar a arma montada nas costas
+</name>
+</text>
+
+<!--Armas de fogo primárias-->
+
+<!--Mosin-Nagant-->
+<text>
+	<id>232</id>
+	<name>Um rifle de cinco tiros de design russo que foi amplamente utilizado na Segunda Guerra Mundial.
+Dano: 67-113
+Dispersão: 25-3
+Velocidade de mira: 1
+Recuo: 20
+Penalidade de Movimento: 5
+Taxa de disparo: 46 RPM
+Munição: 7.62x54R
+Capacidade do pente: 5
+</name>
+</text>
+
+<!--M4A1-->
+<text>
+	<id>233</id>
+	<name>Desenvolvido a partir do rifle M16, ele serve como arma de infantaria padrão para os militares dos EUA.
+Dano: 22-38
+Dispersão: 25-4
+Velocidade de mira: 1.5
+Recuo: 3
+Penalidade de Movimento: 2
+Taxa de disparo: 600 RPM
+Munição: 5.56x45
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--IZh-43-->
+<text>
+	<id>234</id>
+	<name>Uma espingarda de ação dupla de fabricação russa, usada para caçar ursos.
+Dano: 22-188
+Dispersão: 30-13
+Velocidade de mira: 1
+Recuo: 20
+Penalidade de Movimento: 2
+Munição: 12 Cal
+Capacidade do pente: 2
+</name>
+</text>
+
+<!--AK-74-->
+<text>
+	<id>235</id>
+	<name>Sucessor do AKM, projetado para competir com fuzis ocidentais como o M16.
+Dano: 26-44
+Dispersão: 25-5
+Velocidade de mira: 1.5
+Recuo: 4
+Penalidade de Movimento: 2
+Taxa de disparo: 600 RPM
+Munição: 5.45x39
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--AKM-->
+<text>
+	<id>236</id>
+	<name>Versão modernizada do clássico AK-47 com muitos recursos de acessórios.
+Dano: 30-50
+Dispersão: 25-5
+Velocidade de mira: 1.5
+Recuo: 5
+Penalidade de Movimento: 2
+Taxa de disparo: 460 RPM
+Munição: 7.62x39
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--AKs-74U-->
+<text>
+	<id>237</id>
+	<name>Uma variante carabina do rifle de assalto AK-74, destinada a ser menor e mais leve.
+Dano: 26-44
+Dispersão: 25-8
+Velocidade de mira: 2
+Recuo: 4
+Penalidade de Movimento: 1
+Taxa de disparo: 750 RPM
+Munição: 5.45x39
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--SKS-->
+<text>
+	<id>238</id>
+	<name>Uma carabina semiautomática confiável projetada na União Soviética durante a Segunda Guerra Mundial.
+Dano: 34-56
+Dispersão: 25-4
+Velocidade de mira: 1.5
+Recuo: 10
+Penalidade de Movimento: 4
+Taxa de disparo: 200 RPM
+Munição: 7.62x39
+Capacidade do pente: 10
+</name>
+</text>
+
+<!--L85A2-->
+<text>
+	<id>240</id>
+	<name>Rifle de assalto bullpup britânico,O "A2" refere-se a uma grande revisão realizada por HK para transformá-lo em uma arma de fogo confiável e precisa.
+Dano: 22-38
+Dispersão: 25-3
+Velocidade de mira: 1.5
+Recuo: 3
+Penalidade de Movimento: 3
+Taxa de disparo: 500 RPM
+Munição: 5.56x45
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--Remington Model 870-->
+<text>
+	<id>241</id>
+	<name>Uma clássica espingarda americana conhecida por sua durabilidade, confiabilidade e versatilidade.
+Dano: 22-188
+Dispersão: 30-15
+Velocidade de mira: 1
+Recuo: 20
+Penalidade de Movimento: 2
+Taxa de disparo: 66 RPM
+Munição: 12 Cal
+Capacidade do pente: 6
+</name>
+</text>
+
+<!--Arco Improvisado-->
+<text>
+	<id>243</id>
+	<name>Um arco funcional feito de galho de madeira e corda. Uma arma primitiva contra zumbis modernos.
+Dano: 37-94
+Dispersão: 25-6
+Velocidade de mira: 2
+Penalidade de Movimento: 3
+Munição: Flecha Artesanal/Flecha Composta
+Capacidade do pente: 1
+</name>
+</text>
+
+<!--Besta de Caça-->
+<text>
+	<id>244</id>
+	<name>Uma besta de caça camuflada. Moderno, poderoso e preciso, pode caçar grandes animais ou zumbis alvo.
+Dano: 37-94
+Dispersão: 25-3
+Velocidade de mira: 2
+Penalidade de Movimento: 3
+Munição: Flecha Artesanal/Flecha Composta
+Capacidade do pente: 1
+</name>
+</text>
+
+<!--Ruger 10/22 Sporter-->
+<text>
+	<id>246</id>
+	<name>Um rifle elegante e totalmente suprimido, ótimo para atividades recreativas.
+Dano: 15-25
+Dispersão: 25-4
+Velocidade de mira: 2
+Recuo: 8
+Penalidade de Movimento: 3
+Taxa de disparo: 300 RPM
+Munição: 22 LR
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--M92 Repeater-->
+<text>
+	<id>247</id>
+	<name>Um rifle de repetição com ação de alavanca e é a versão moderna do Winchester Modelo 92.
+Dano: 30-50
+Dispersão: 25-5
+Velocidade de mira: 2
+Recuo: 10
+Penalidade de Movimento: 3
+Taxa de disparo: 85 RPM
+Munição: .357
+Capacidade do pente: 7
+</name>
+</text>
+
+<!--SVD Dragunov-->
+<text>
+	<id>248</id>
+	<name>Um rifle DMR/Sniper de design soviético, semiautomático e operado a gás. Projetado por Yevgeny Dragunov.
+Dano: 60-100
+Dispersão: 25-3
+Velocidade de mira: 1
+Recuo: 13
+Penalidade de Movimento: 5
+Taxa de disparo: 150 RPM
+Munição: 7.62x54R
+Capacidade do pente: 10
+</name>
+</text>
+
+<!--MP5K-->
+<text>
+	<id>249</id>
+	<name>Uma submetralhadora compacta da família HK MP5. O K significa "Kurz", que significa abreviação em alemão, vem com uma empunhadura.
+Dano: 21-35
+Dispersão: 20-10
+Velocidade de mira: 2
+Recuo: 1
+Penalidade de Movimento: 0
+Taxa de disparo: 850 RPM
+Munição: 9x19
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--UMP-45-->
+<text>
+	<id>251</id>
+	<name>Uma sucessora mais leve e econômica da popular submetralhadora MP5.
+Dano: 21-35
+Dispersão: 20-9
+Velocidade de mira: 2
+Recuo: 2
+Penalidade de Movimento: 0
+Taxa de disparo: 650 RPM
+Munição: .45 ACP
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--RPK-->
+<text>
+	<id>252</id>
+	<name>Um LMG soviético projetado por Mikhail Kalashnikov, funcionalmente uma versão mais pesada do AKM.
+Vem com um bipé, o recuo é bastante reduzido após ficar parado por um período de tempo.
+Dano: 30-50
+Dispersão: 25-5
+Velocidade de mira: 1.5
+Recuo: 6
+Penalidade de Movimento: 2
+Taxa de disparo: 600 RPM
+Munição: 7.62x39
+Capacidade do pente: 40
+</name>
+</text>
+
+<!--FN-FAL-->
+<text>
+	<id>253</id>
+	<name>Um rifle de batalha desenvolvido na Bélgica em 1953, adotado pela OTAN.
+Dano: 54-90
+Dispersão: 25-4
+Velocidade de mira: 1.5
+Recuo: 6
+Penalidade de Movimento: 2
+Taxa de disparo: 600 RPM
+Munição: .308
+Capacidade do pente: 20
+</name>
+</text>
+
+<!--Saiga-12K-->
+<text>
+	<id>254</id>
+	<name>Uma espingarda calibre 12, totalmente automática, de fabricação russa, conhecida por seu design estilo AK.
+Dano: 22-188
+Dispersão: 30-17
+Velocidade de mira: 1
+Recuo: 19
+Penalidade de Movimento: 2
+Taxa de disparo: 200 RPM
+Munição: 12 Cal
+Capacidade do pente: 8
+</name>
+</text>
+
+<!--AUG A1-->
+<text>
+	<id>255</id>
+	<name>A versão original e icônica do Steyr AUG é um rifle de assalto bullpup conhecido por sua óptica integrada.
+Dano: 25-41
+Dispersão: 25-3
+Velocidade de mira: 1.5
+Recuo: 1.5
+Penalidade de Movimento: 2.5
+Taxa de disparo: 650 RPM
+Munição: 5.56x45
+Capacidade do pente: 30
+Chance de tiro na cabeça: +15%
+</name>
+</text>
+
+<!--PP-19 Bizon-->
+<text>
+	<id>256</id>
+	<name>Uma submetralhadora russa, reconhecível por seu distinto carregador helicoidal, mantém os cartuchos paralelos ao cano.
+Dano: 18-30
+Dispersão: 20-8
+Velocidade de mira: 2
+Recuo: 3
+Penalidade de Movimento: 0
+Taxa de disparo: 550 RPM
+Munição: 9x18
+Capacidade do pente: 64
+</name>
+</text>
+
+<!--OTs-14 Groza-->
+<text>
+	<id>257</id>
+	<name>Um rifle de assalto e lançador de granadas combinados em uma plataforma modular. Desenvolvido em meados dos anos 90 para as forças especiais russas.
+Dano: 30-50
+Dispersão: 25-5
+Velocidade de mira: 1.5
+Recuo: 3
+Penalidade de Movimento: 3
+Taxa de disparo: 600 RPM
+Munição: 9x39
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--VSS Vintorez-->
+<text>
+	<id>258</id>
+	<name>O lendário VSS "Special Sniper Rifle" foi projetado para operações clandestinas que exigiam engajamento silencioso de alvos.
+Dano: 37-62
+Dispersão: 25-2
+Velocidade de mira: 1.5
+Recuo: 4
+Penalidade de Movimento: 2
+Taxa de disparo: 600 RPM
+Munição: 9x39
+Capacidade do pente: 20
+</name>
+</text>
+
+<!--SV-98-->
+<text>
+	<id>259</id>
+	<name>Rifle de precisão de ferrolho da mais alta precisão. Chassi laminado de alta qualidade e possui um cano flutuante para maior precisão.
+Dano: 64-106
+Dispersão: 25-3
+Velocidade de mira: 1.5
+Recuo: 9
+Penalidade de Movimento: 5
+Taxa de disparo: 66 RPM
+Munição: 7.62x54R
+Capacidade do pente: 10
++10% de chance de tiro na cabeça com mira precisa
+</name>
+</text>
+
+<!--Madsen-->
+<text>
+	<id>260</id>
+	<name>O primeiro verdadeiro LMG do mundo, adotado pelo Exército Real Dinamarquês em 1902. Provavelmente pertencia a um soldado, enterrado sob sua casa decrépita. Muito rústico.
+Vem com um bipé, o recuo é bastante reduzido após ficar parado por um período de tempo.
+Dano: 52-87
+Dispersão: 25-6
+Velocidade de mira: 1.5
+Recuo: 6
+Penalidade de Movimento: 2
+Taxa de disparo: 500 RPM
+Munição: 7.62x54R
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--AN-94-->
+<text>
+	<id>261</id>
+	<name>Um complexo rifle de assalto de fabricação russa, cuja característica mais marcante é o "hiper burst" disparando 2 tiros ao mesmo tempo.
+Dano: 28-46
+Dispersão: 25-4
+Velocidade de mira: 1.5
+Recuo: 3
+Penalidade de Movimento: 2
+Taxa de disparo: 1800 RPM
+Munição: 5.45x39
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--Silenced Remington-->
+<text>
+	<id>262</id>
+	<name>"Se a regra que você seguiu o trouxe a isso, para que servia a regra?" -Anton Chigurh.
+Dano: 22-188
+Dispersão: 30-15
+Velocidade de mira: 1.5
+Recuo: 20
+Penalidade de Movimento: 2
+Taxa de disparo: 66 RPM
+Munição: 12 Cal
+Capacidade do pente: 6
+Has an integrated suppressor
+</name>
+</text>
+
+<!--M16A2-->
+<text>
+	<id>263</id>
+	<name>O M16A2 foi adotado pelos militares dos EUA no início dos anos 1980. Ele apresenta um modo de disparo de 3 rajadas, mas não possui a opção totalmente automática.
+Dano: 22-38
+Dispersão: 25-4
+Velocidade de mira: 1.5
+Recuo: 3
+Penalidade de Movimento: 3
+Taxa de disparo: 1800 RPM
+Munição: 5.56x45
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--KRISS Vector-->
+<text>
+	<id>264</id>
+	<name>O KRISS Vector é um SMG notável por seu sistema exclusivo de mitigação de recuo e aparência futurista com taxas de tiro insanas.
+Dano: 21-35
+Dispersão: 20-10
+Velocidade de mira: 2
+Recuo: 2
+Penalidade de Movimento: 0
+Taxa de disparo: 1200 RPM
+Munição: .45 ACP
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--M4A1 w/Drum-->
+<text>
+	<id>265</id>
+	<name>Desenvolvido a partir do rifle M16, ele serve como arma de infantaria padrão para os militares dos EUA. Atualmente está equipado com um tambor C-Mag.
+Dano: 22-38
+Dispersão: 25-4
+Velocidade de mira: 1.5
+Recuo: 3
+Penalidade de Movimento: 2
+Taxa de disparo: 600 RPM
+Munição: 5.56x45
+Capacidade do pente: 100
+</name>
+</text>
+
+<!--AKM w.Drum-->
+<text>
+	<id>266</id>
+	<name>Versão modernizada do clássico AK-47 com muitos recursos de acessórios. Atualmente está equipado com um Drum Mag.
+Dano: 30-50
+Dispersão: 25-5
+Velocidade de mira: 1.5
+Recuo: 5
+Penalidade de Movimento: 2
+Taxa de disparo: 460 RPM
+Munição: 7.62x39
+Capacidade do pente: 75
+</name>
+</text>
+
+<!--M70-->
+<text>
+	<id>267</id>
+	<name>O Winchester Modelo 70 é um rifle de ferrolho amplamente utilizado na guerra do Vietnã.
+Dano: 67-113
+Dispersão: 25-3
+Velocidade de mira: 1
+Recuo: 20
+Penalidade de Movimento: 5
+Taxa de disparo: 46 RPM
+Munição: .308
+Capacidade do pente: 5
+</name>
+</text>
+
+<!--Saiga-12K w/Drum-->
+<text>
+	<id>268</id>
+	<name>Uma espingarda calibre 12, totalmente automática, de fabricação russa, conhecida por seu design estilo AK. Atualmente está equipado com um Drum Mag.
+Dano: 22-188
+Dispersão: 30-17
+Velocidade de mira: 1
+Recuo: 19
+Penalidade de Movimento: 2
+Taxa de disparo: 200 RPM
+Munição: 12 Cal
+Capacidade do pente: 20
+</name>
+</text>
+
+<!--RPK w/Drum-->
+<text>
+	<id>269</id>
+	<name>Um LMG soviético projetado por Mikhail Kalashnikov, funcionalmente uma versão mais pesada do AKM. Atualmente está equipado com um Drum Mag.
+Vem com um bipé, o recuo é bastante reduzido após ficar parado por um período de tempo.
+Dano: 30-50
+Dispersão: 25-5
+Velocidade de mira: 1.5
+Recuo: 6
+Penalidade de Movimento: 2
+Taxa de disparo: 600 RPM
+Munição: 7.62x39
+Capacidade do pente: 40
+</name>
+</text>
+
+<!--M16A2 w/Drum-->
+<text>
+	<id>270</id>
+	<name>O M16A2 foi adotado pelos militares dos EUA no início dos anos 1980. Ele apresenta um modo de disparo de 3 rajadas, mas não possui a opção totalmente automática. Atualmente está equipado com um tambor C-Mag.
+Dano: 22-38
+Dispersão: 25-4
+Velocidade de mira: 1.5
+Recuo: 3
+Penalidade de Movimento: 3
+Taxa de disparo: 1800 RPM
+Munição: 5.56x45
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--AUG A1 w/Drum-->
+<text>
+	<id>271</id>
+	<name>A versão original e icônica do Steyr AUG é um rifle de assalto bullpup conhecido por sua óptica integrada. Atualmente está equipado com um tambor C-Mag.
+Dano: 25-41
+Dispersão: 25-3
+Velocidade de mira: 1.5
+Recuo: 1.5
+Penalidade de Movimento: 2.5
+Taxa de disparo: 650 RPM
+Munição: 5.56x45
+Capacidade do pente: 30
+Chance de tiro na cabeça: +15%
+</name>
+</text>
+
+<!--Milkor MGL-->
+<text>
+	<id>272</id>
+	<name>Um lançador de granadas leve de revólver de seis tiros de 40 mm desenvolvido na África do Sul pela Milkor.
+Dano: 45-855
+Dispersão: 30-5
+Velocidade de mira: 1.5
+Recuo: 4
+Penalidade de Movimento: 2.5
+Munição: 40mm grenade
+Capacidade do pente: 6
+</name>
+</text>
+
+<!--Blaze-->
+<text>
+	<id>273</id>
+	<name>Um rifle de caça de ação rápida, favorecido por sua capacidade única de disparar dois tiros quase instantaneamente.
+Dano: 64-106
+Dispersão: 25-5
+Velocidade de mira: 1.5
+Recuo: 6
+Penalidade de Movimento: 3
+Munição: .308
+Capacidade do pente: 2
+</name>
+</text>
+
+<!--FAMAS F1-->
+<text>
+	<id>274</id>
+	<name>Apelidado de "Le Clairon" (O Bugle) devido ao seu formato, é um rifle de assalto bullpup francês distinto, conhecido por seu design único e alta cadência de tiro.
+Vem com um bipé, o recuo é bastante reduzido após ficar parado por um período de tempo.
+Dano: 25-41
+Dispersão: 25-4
+Velocidade de mira: 1.5
+Recuo: 3
+Penalidade de Movimento: 2
+Taxa de disparo: 900 RPM
+Munição: 5.56x45
+Capacidade do pente: 25
+</name>
+</text>
+
+<!--Mini-14-->
+<text>
+	<id>275</id>
+	<name>O Ruger Mini-14 é um rifle semiautomático leve, valorizado por seu design clássico, confiabilidade e versatilidade.
+Dano: 27-45
+Dispersão: 25-4
+Velocidade de mira: 1.5
+Recuo: 3
+Penalidade de Movimento: 2
+Taxa de disparo: 300 RPM
+Munição: 5.56x45
+Capacidade do pente: 20
+</name>
+</text>
+
+<!--AK-74 w/Drum-->
+<text>
+	<id>276</id>
+	<name>Um sucessor do AKM, projetado para competir com rifles ocidentais como o M16. Atualmente está equipado com um tambor C-Mag.
+Dano: 26-44
+Dispersão: 25-5
+Velocidade de mira: 1.5
+Recuo: 4
+Penalidade de Movimento: 2
+Taxa de disparo: 600 RPM
+Munição: 5.45x39
+Capacidade do pente: 95
+</name>
+</text>
+
+<!--AKs-74U w/Drum-->
+<text>
+	<id>277</id>
+	<name>Uma variante carabina do rifle de assalto AK-74, destinada a ser menor e mais leve. Atualmente está equipado com um tambor C-Mag.
+Dano: 26-44
+Dispersão: 25-8
+Velocidade de mira: 2
+Recuo: 4
+Penalidade de Movimento: 1
+Taxa de disparo: 750 RPM
+Munição: 5.45x39
+Capacidade do pente: 95
+</name>
+</text>
+	
+<!--Update 1.8.5 gear and weapons-->
+
+	<!-- MG34 -->
+	<text>
+		<id>278</id>
+		<name>MG34 - Metralhadora unificada alemã da Segunda Guerra Mundial compartimentada para 7,92x57
+Dano: 50-110
+Dispersão: 15-35
+Recuo: 5
+Velocidade de mira: 2
+Taxa de disparo: 1200 RPM
+Capacidade do pente: 50
+		</name>
+	</text>
+
+	<!-- VSS BLACK -->
+	<text>
+		<id>279</id>
+		<name>Imba por sua vez.
+uma arma para um homem muito bom.
+que me apoiou nos momentos difíceis.
+obrigado amigo
+		</name>
+	</text>
+
+	<!-- VSSM -->
+	<text>
+		<id>280</id>
+		<name>VSSM é um rifle de precisão silencioso baseado em VSS desenvolvido em 2010. Ele vem como padrão com um trilho Picatinny na tampa do receptor e um anel para montagem de acessórios táticos. Index GRAU 6P29M
+Dano: 37-50
+Dispersão: 3-15
+Recuo: 2
+Velocidade de mira: 1
+Taxa de disparo: 700 RPM
+Capacidade do pente: 20
+		</name>
+	</text>
+
+	<!-- AS-VAL -->
+	<text>
+		<id>281</id>
+		<name>AS-Val é um rifle de assalto silencioso com câmara para cartucho 9x39 com silenciador integrado, para unidades e grupos para fins especiais. Foi desenvolvido com base no Vintorez VSS em Ts NIIToch Mash.
+Dano: 35-50
+Dispersão: 10-35
+Recuo: 4
+Velocidade de mira: 1
+Taxa de disparo: 900 RPM
+Capacidade do pente: 20
+		</name>
+	</text>
+
+	<!-- PKM -->
+	<text>
+		<id>282</id>
+		<name>PKM é uma metralhadora com câmara para 7,62x54R. Provou ser uma arma poderosa, simples, confiável e eficaz. É procurado há muitas décadas, desde o final dos anos 60 do século passado até o presente. Produção da Planta em homenagem a V. A. Degtyarev.
+Dano: 58-123
+Dispersão: 5-30
+Recuo: 5
+Velocidade de mira: 1.5
+Taxa de disparo: 650 RPM 
+Capacidade do pente: 100
+		</name>
+	</text>
+
+	<!-- AKM - "Partizan" -->
+	<text>
+		<id>283</id>
+		<name>AKM "Partizan" - um AKM modificado com coronha dobrável, silenciador, mira óptica, protetor de mão modificado e carregador 6P2 do RPK
+Dano: 36-44
+Dispersão: 5-14
+Recuo: 6
+Velocidade de mira: 0.5
+Taxa de disparo: 600 RPM
+Capacidade do pente: 50
+		</name>
+	</text>
+
+	<!-- V-94 -->
+	<text>
+		<id>284</id>
+		<name>B94 "Volga" - um rifle de precisão de grande calibre projetado para destruir postos de tiro em defesas aéreas, veículos com blindagem leve e radares próximos
+Dano: 250-450
+Dispersão: 1-45
+Recuo: 15
+Velocidade de mira: 4
+Taxa de disparo: 20 RPM
+Capacidade do pente: 5
+		</name>
+	</text>
+
+	<!-- PPSh-41 -->
+	<text>
+		<id>285</id>
+		<name>PPSh-41 - submetralhadora soviética, desenvolvida em 1940 pelo designer G. S. Shpagin compartimentada para TT 7,62 × 25 mm
+Dano: 18-28
+Dispersão: 45-15
+Recuo: 10
+Velocidade de mira: 1
+Taxa de disparo: 1000 RPM
+Capacidade do pente: 71
+		</name>
+	</text>
+
+	<!-- AKS74u - SHABASH -->
+	<text>
+		<id>286</id>
+		<name>AKS-74U "Shabash" - um AKS-74U modificado com silenciador PBS-4 e protetor de mão modificado.
+Dano: 18-32
+Dispersão: 20-40
+Velocidade de mira: 2.5
+Taxa de disparo: 750 RPM
+Capacidade do pente: 95
+		</name>
+	</text>
+
+	<!-- АКS74u - Tactical -->
+	<text>
+		<id>287</id>
+		<name>AKS-74U "Tático" - AKS-74U modificado para operadores táticos reais do SBEU)
+Possui um silenciador.
+Dano: 18-32
+Dispersão: 15-40
+Velocidade de mira: 2
+Taxa de disparo: 750 RPM
+Capacidade do pente: 45
+		</name>
+	</text>
+
+<!--Mochilas-->
+
+<!--Mochila Taloon-->
+<text>
+	<id>301</id>
+	<name>Mochila leve usada para viagens de um dia inteiro. Apoie confortavelmente qualquer carga que caiba.
+
+Espaço: +4
+Pode guardar blusas e calças extras
+</name>
+</text>
+
+<!--Mochila da montanha-->
+<text>
+	<id>302</id>
+	<name>Mochila alta de alpinismo feita de materiais de alta tecnologia. Espaçoso, mas muito perceptível.
+
+Espaço: +7
+Zíper: +4
+Pode guardar blusas e calças extras
+</name>
+</text>
+
+<!--Mochila de caça-->
+<text>
+	<id>303</id>
+	<name>Mochila de caça padrão com bolsos que podem ser fechados. Muito durável e confortável, embora um pouco antiquado.
+
+Espaço: +6
+Pode guardar blusas e calças extras
+</name>
+</text>
+
+<!--Mochila escolar-->
+<text>
+	<id>304</id>
+	<name>Uma mochila infantil. Não é muito prático em termos de espaço de transporte, mas ajuda a manter a discrição.
+
+Espaço: +2
+</name>
+</text>
+
+<!--Bolsa improvisada-->
+<text>
+	<id>305</id>
+	<name>Bolsa pequena e discreta suspensa por uma alça no ombro. Esta bolsa não tem muito espaço dentro, mas é muito discreta e não será notada tão facilmente.
+
+Espaço: +3
+Pode guardar blusas e calças extras
+</name>
+</text>
+
+<!--Mochila improvisada-->
+<text>
+	<id>306</id>
+	<name>Mochila de estopa de perfil baixo com moldura de madeira. Não muito rígido, mas muito prático.
+
+Espaço: +5
+Pode guardar blusas e calças extras
+</name>
+</text>
+
+<!--Mochila de acampamento-->
+<text>
+	<id>307</id>
+	<name>Uma combinação de barraca de acampamento civil com mochila. Oferece um espaço confortável e seco quando implantado, com espaço de armazenamento adicional para seus itens.
+
+Espaço: +3
+Pode guardar blusas e calças extras
+Pode ser instalada no solo como uma tenda civil para armazenar itens
+Itens colocados dentro nunca irão desaparecer
+</name>
+</text>
+
+<!--Mochila Tortilha-->
+<text>
+	<id>308</id>
+	<name>Mochila militar confortável para transporte prolongado, atinge o ponto ideal para carregar muito mais equipamentos e ao mesmo tempo ter tamanho mínimo.
+
+Espaço: +7
+Zíper: +2
+Pode guardar blusas e calças extras
+</name>
+</text>
+
+<!--Pochete-->
+<text>
+	<id>309</id>
+	<name>Pochete prática usada para transportar itens pequenos. O material não é muito durável, mas dá conta do recado.
+
+Espaço: +1
+Possui 2 zíperes de armazenamento exclusivos, capazes de guardar fita adesiva, resina epóxi e kits de costura
+Pode ser usado no peito, junto com uma mochila
+</name>
+</text>
+
+<!--Bolsa Militar-->
+<text>
+	<id>310</id>
+	<name>Uma pequena bolsa de ombro de nível militar usada para armazenar pequenos itens e ferramentas de sobrevivência EDC.
+
+Espaço: +1
+Possui 3 zíperes de armazenamento exclusivos, capazes de guardar facas, fósforos, isqueiros, garrafas de água e cantis militares.
+Pode ser usado no peito, junto com uma mochila
+</name>
+</text>
+
+<!--Bolsa IFAK-->
+<text>
+	<id>311</id>
+	<name>Uma bolsa de ombro IFAK de grau médico, projetada para armazenar medicamentos de forma protegida contra contaminantes.
+
+Espaço: +1
+Possui 3 zíperes de armazenamento exclusivos, capazes de armazenar qualquer material médico.
+Pode ser usado no peito, junto com uma mochila
+</name>
+</text>
+
+<!--Suprimentos stache-->
+<text>
+	<id>312</id>
+	<name>Um toque de magia dos Devs para dar aos seus itens a capacidade de saltar em dimensão!
+
+Espaço: +6
+Pode armazenar itens ou equipamentos para serem salvos e gerados em um novo jogo.
+Os suprimentos armazenados dentro dele podem ser acessados ​​novamente gerando o stache de suprimentos em seu novo jogo salvo usando o console do minijogo
+</name>
+</text>
+
+<!--Calça-->
+
+<!--Jeans-->
+<text>
+	<id>351</id>
+	<name>Calça jeans, também conhecidas como jeans. Roupas casuais modernas onipresentes, essas são as calças comuns.
+
+Espaço: +2
+Calor: +5
+</name>
+</text>
+
+<!--Calça de trabalhador-->
+<text>
+	<id>352</id>
+	<name>Calça de corte largo, adequadas para trabalhos pesados ​​ao ar livre. Distinguível pelos bolsos nas pernas.
+
+Espaço: +3
+Calor: +5
+</name>
+</text>
+
+<!--Calça de treino-->
+<text>
+	<id>353</id>
+	<name>Calça casual, desenhadas para conforto e finalidades atléticas. Eles se tornaram uma das peças de roupa mais usadas no mundo.
+
+Espaço: +1
+Calor: +3
+</name>
+</text>
+
+<!--Calça Gorka-->
+<text>
+	<id>354</id>
+	<name>Calça táticas usadas pela unidade estacionada em Gorka, Chernarus. Eles oferecem acesso rápido a grandes bolsos de carga, armadura e proteção decente contra as intempéries.
+
+Espaço: +3
+Calor: +8
+Defesa: +2
+Bloqueio corpo a corpo: +10%
+</name>
+</text>
+
+<!--Calça paramédicas-->
+<text>
+	<id>355</id>
+	<name>Calça padrão para paramédicos. Não é muito diferente de qualquer outro vestuário de trabalho, exceto pelas listras brilhantes e reflexivas.
+
+Espaço: +2
+Calor: +4
+</name>
+</text>
+
+<!--Calça Orel-->
+<text>
+	<id>356</id>
+	<name>Essa calça é um uniforme da unidade especial da polícia OREL. Um pouco quente e confortável com pouca proteção.
+
+Espaço: +2
+Calor: +5
+Defesa: +1
+</name>
+</text>
+
+<!--Calça de Caçador-->
+<text>
+	<id>357</id>
+	<name>Calça durável, projetadas para longos períodos de permanência ao ar livre. O padrão camuflado é uma roupa de caça ideal no ambiente certo.
+
+Espaço: +3
+Calor: +6
+Defesa: +1
+Bloqueio corpo a corpo: +5%
+</name>
+</text>
+
+<!--Coletes-->
+
+<!--Colete à prova de balas-->
+<text>
+	<id>401</id>
+	<name>Uma concha de tecido coberta por uma placa de armadura balística. Boa proteção de cobertura para a frente do tronco.
+
+Defesa: +8
+Bloqueio corpo a corpo: +10%
+Bloqueia os disparos completamente quando a durabilidade é ≥ 75%, mas cada tiro tira 10% da durabilidade
+</name>
+</text>
+
+<!--Colete de assalto-->
+<text>
+	<id>402</id>
+	<name>Um colete tático projetado para combate, que prioriza o transporte de equipamentos e munições, oferece proteção limitada contra acolchoamento macio.
+
+Espaço: +2
+Defesa: +3
+Bloqueio corpo a corpo: +5%
+Pode amarrar granadas F1 ou de fumaça, até 3 para uso rápido
+</name>
+</text>
+
+<!--Colete de imprensa-->
+<text>
+	<id>403</id>
+	<name>Um colete balístico capaz de absorver vários tipos de danos por impacto. Usado por várias organizações de segurança em todo o mundo.
+
+Espaço: +1
+Defesa: +6
+Bloqueio corpo a corpo: +5%
+</name>
+</text>
+
+<!--Colete de alta capacidade-->
+<text>
+	<id>404</id>
+	<name>Um colete tático projetado para conter o máximo de equipamento possível, mantendo a mobilidade total, oferece proteção limitada contra acolchoamento macio.
+
+Espaço: +3
+Defesa: +3
+Bloqueio corpo a corpo: +5%
+Pode amarrar granadas F1 ou de fumaça, até 3 para uso rápido
+</name>
+</text>
+
+<!--Colete Kevlar-->
+<text>
+	<id>405</id>
+	<name>Um tipo de armadura rígida feita de material sintético forte Kevlar. Altamente eficaz para parar rondas, mantendo um equilíbrio entre mobilidade e capacidade de carga.
+Espaço: +3
+Defesa: +10
+Bloqueio corpo a corpo: +10%
+Pode amarrar granadas F1 ou de fumaça, até 3 para uso rápido.
+Bloqueia os disparos completamente quando a durabilidade é ≥ 75%, mas cada tiro tira 10% da durabilidade
+</name>
+</text>
+
+<!--Colete Soviético-->
+<text>
+	<id>406</id>
+	<name>Edição das forças soviéticas. Um colete tático dedicado que oferece maior proteção à parte inferior do abdômen devido a uma seção torácica alongada.
+
+Espaço: +2
+Defesa: +8
+Bloqueio corpo a corpo: +10%
+Bloqueia os disparos completamente quando a durabilidade é ≥ 75%, mas cada tiro tira 10% da durabilidade
+</name>
+</text>
+
+<!--Avental-->
+<text>
+	<id>407</id>
+	<name>Uma peça de roupa versátil usada sobre as roupas para proteger o corpo e as roupas do usuário de substâncias como sujeira, vísceras, graxa e produtos químicos.
+
+Espaço: +1
+</name>
+</text>
+
+<!--Traje Ghillie-->
+<text>
+	<id>408</id>
+	<name>Traje de camuflagem usado para esconder completamente o usuário em um ambiente natural.
+
+Fornece um estado furtivo quando a durabilidade é ≥ 50%. Neste estado, os inimigos próximos não conseguem localizar você.
+Movimento e ataque contínuos removerão a furtividade
+</name>
+</text>
+
+<!--Armadura Pesada M-->
+<text>
+	<id>409</id>
+	<name>Armadura militar de alto nível revestida com uma camada de composto experimental chamado "Complexo M", interrompe os disparos como se não fosse nada.
+
+Defesa: +15
+Bloqueio corpo a corpo: +15%
+Bloqueia completamente os disparos quando a durabilidade é ≥ 75%, mas cada tiro tira 5% da durabilidade
+</name>
+</text>
+
+<!--Traje de proteção C-->
+<text>
+	<id>410</id>
+	<name>Um traje de proteção feito de maneira grosseira reproduz as propriedades de um traje CBRN, mas não pode ser usado como forro para colocar coletes em cima dele.
+
+Quando a durabilidade é ≥ 50%, o traje é à prova de chuva.
+Efeitos quando a durabilidade é ≥ 50% e combinada com botas e luvas NBC: radiação, risco biológico e resistência química.
+Pode ser selado para ser imune a gases tóxicos por 2 min, precisa de 2 min de resfriamento após
+</name>
+</text>
+
+<!--Traje M Kevlar CBRN-->
+<text>
+	<id>411</id>
+	<name>Um colete kevlar sobre um traje CBRN.
+
+Espaço: +3
+Defesa: +10
+Bloqueio corpo a corpo: +10%
+Pode amarrar granadas F1 ou de fumaça, até 3 para uso rápido.
+Bloqueia os disparos completamente quando a durabilidade é ≥ 75%, mas cada tiro tira 10% da durabilidade.
+Contém as propriedades de um traje CBRN
+</name>
+</text>
+
+<!--Traje CBRN Pesado M-->
+<text>
+	<id>412</id>
+	<name>Armadura pesada M. Colocada em cima de um traje CBRN.
+
+Defesa: +15
+Bloqueio corpo a corpo: +15%
+Bloqueia completamente os disparos quando a durabilidade é ≥ 75%, mas cada tiro tira 5% da durabilidade.
+Contém as propriedades de um traje CBRN
+</name>
+</text>
+
+<!--Traje M Ghillie CBRN-->
+<text>
+	<id>413</id>
+	<name>Um traje ghillie em cima de um traje CBRN.
+
+Fornece um estado furtivo quando a durabilidade é ≥ 50%. Neste estado, os inimigos próximos não conseguem localizar você.
+Movimento e ataque contínuos removerão a furtividade.
+Contém as propriedades de um traje CBRN
+</name>
+</text>
+
+<!--Traje Hazmat-->
+<text>
+	<id>414</id>
+	<name>Um equipamento EPI impermeável projetado para proteger contra produtos químicos perigosos e ameaças biológicas.
+
+Quando a durabilidade é ≥ 50%, o traje é à prova de chuva.
+Efeitos quando a durabilidade é ≥ 50% e combinada com botas e luvas NBC: risco biológico e resistente a produtos químicos
+</name>
+</text>
+
+<!--Traje NBC-->
+<text>
+	<id>415</id>
+	<name>Um traje “Nuclear, Biológico e Químico” projetado para oferecer proteção completa contra essas ameaças.
+
+Quando a durabilidade é ≥ 50%, o traje é à prova de chuva.
+Efeitos quando a durabilidade é ≥ 50% e combinada com botas e luvas NBC: radiação, risco biológico e resistência química
+</name>
+</text>
+
+<!--Traje CRBN-->
+<text>
+	<id>416</id>
+	<name>Uma versão militar mais avançada do traje NBC, projetada com foco em ameaças radiológicas e contaminantes de gases, também é feita de maneira muito leve, para que possa colocar coletes selecionados em cima dele.
+Quando a durabilidade é ≥ 50%, o traje é à prova de chuva.
+Efeitos quando a durabilidade é ≥ 50% e combinada com botas e luvas NBC: radiação, risco biológico e resistência química.
+Pode ser selado para ser imune a gases tóxicos por 2 min, precisa de 2 min de resfriamento após
+</name>
+</text>
+
+<!--Capacetes-->
+
+<text>
+	<id>450</id>
+	<name>Clique para remover o equipamento do liner
+</name>
+</text>
+
+<!--Capacete de motocicleta-->
+<text>
+	<id>451</id>
+	<name>Capacete protetor com viseira para motociclistas. O revestimento externo rígido absorve impactos com facilidade.
+
+Calor: +2
+Defesa: +3
+Bloqueio corpo a corpo: +10%
+</name>
+</text>
+
+<!--Capacete do Exército-->
+<text>
+	<id>452</id>
+	<name>Capacete de infantaria do exército, um capacete balístico projetado para proteção contra fragmentação, impacto contundente e algumas pequenas armas de fogo.
+
+Calor: +2
+Defesa: +4
+Bloqueio corpo a corpo: +5%
+Imune a críticos, cada crítico bloqueado desgasta o capacete com 15% de durabilidade
+</name>
+</text>
+
+<!--Capacete de segurança-->
+<text>
+	<id>453</id>
+	<name>Um capacete de construção usado para proteger a cabeça do impacto de queda de ferramentas, detritos ou qualquer força contundente.
+
+Calor: +2
+Defesa: +2
+Bloqueio corpo a corpo: +5%
+</name>
+</text>
+
+<!--Máscara de Gás-->
+<text>
+	<id>454</id>
+	<name>Uma forma de equipamento de proteção individual (EPI) que protege o usuário da inalação de poluentes atmosféricos e gases tóxicos.
+
+Calor: +2
+Fornece imunidade contra áreas contaminadas com gases tóxicos, a durabilidade se desgasta constantemente em áreas contaminadas.
+Pode ser usado como um forro para usar outro equipamento de cabeça em cima dele.
+Clique no slot vazio da cabeça para desequipá-lo quando usado como revestimento
+</name>
+</text>
+
+<!--Capacete de moto 2-->
+<text>
+	<id>455</id>
+	<name>Capacete protetor com viseira para motociclistas. O revestimento externo rígido absorve impactos com facilidade.
+
+Calor: +2
+Defesa: +3
+Bloqueio corpo a corpo: +10%
+</name>
+</text>
+
+<!--Capacete de motocicleta 3-->
+<text>
+	<id>456</id>
+	<name>Capacete protetor com viseira para motociclistas. O revestimento externo rígido absorve impactos com facilidade.
+
+Calor: +2
+Defesa: +3
+Bloqueio corpo a corpo: +10%
+</name>
+</text>
+
+<!--Boné-->
+<text>
+	<id>457</id>
+	<name>Boné macio com bico curvo e coroa arredondada. É eficaz para proteger os olhos do sol.
+
+Calor: +2
+</name>
+</text>
+
+<!--gorro-->
+<text>
+	<id>458</id>
+	<name>Um gorro macio e justo, sem aba, conhecido pela sua versatilidade e calor. Historicamente associado a trabalhadores e que abandonaram o ensino médio, interessados ​​no cartel do cristal.
+
+Calor: +4
+</name>
+</text>
+
+<!--Ushanka-->
+<text>
+	<id>459</id>
+	<name>Um tradicional chapéu de pele russo com abas para as orelhas que podem ser amarradas em diferentes posições para fornecer proteção máxima contra o frio extremo. Eles são tradicionalmente feitos com peles reais, como pele de carneiro, coelho ou vison.
+
+Calor: +6
+</name>
+</text>
+
+<!--Boina-->
+<text>
+	<id>460</id>
+	<name>Boina com insígnia costurada de um lado. Não oferece muita proteção, nem proporciona muito conforto térmico.
+
+Calor: +2
+</name>
+</text>
+
+<!--Balaclava-->
+<text>
+	<id>461</id>
+	<name>Uma cobertura justa que protege a cabeça, o rosto e o pescoço, deixando apenas os olhos ou partes do rosto expostos.
+
+Calor: +3
+Pode ser usado como um forro para usar outro equipamento de cabeça em cima dele.
+Clique no slot vazio da cabeça para desequipá-lo quando usado como revestimento
+</name>
+</text>
+
+<!--Lanterna de cabeça-->
+<text>
+	<id>462</id>
+	<name>Um dispositivo de iluminação mãos-livres usado na cabeça com uma alça ajustável.
+
+Calor: +1
+Requer uma bateria para iluminar
+</name>
+</text>
+
+<!--Chapéu de vaqueiro-->
+<text>
+	<id>463</id>
+	<name>Chapéu de cowboy de aba larga e coroa alta. Associado a trabalhadores de fazendas, vaqueiros e homens sem nome.
+
+Calor: +2
+</name>
+</text>
+
+<!--Máscara de soldagem-->
+<text>
+	<id>464</id>
+	<name>Protege os olhos, rosto e pescoço da luz ultravioleta, faíscas e calor durante a soldagem.
+
+Calor: +1
+Defesa: +1
+</name>
+</text>
+
+<!--Capacete Gorka-->
+<text>
+	<id>465</id>
+	<name>Capacete militar pesado. Reduz o dano recebido na cabeca e oferece boa protecao contra ataques corpo a corpo e disparos leves.
+
+Calor: +3
+Defesa: +5
+Bloqueio corpo a corpo: +10%
+Imune a críticos, cada crítico bloqueado desgasta o capacete com 10% de durabilidade
+</name>
+</text>
+
+<!--Boné de polícia-->
+<text>
+	<id>466</id>
+	<name>Um boné de polícia pontiagudo é usado como parte do uniforme policial.
+
+Calor: +2
+</name>
+</text>
+
+<!--NVG-->
+<text>
+	<id>467</id>
+	<name>Óculos de visão noturna [NVG] alimentados por bateria para intensificar imagens em ambientes com pouca luz, vêm com alça de cabeça.
+
+Calor: +1
+Requer uma bateria para usar
+</name>
+</text>
+
+<!--Bandana-->
+<text>
+	<id>468</id>
+	<name>Um pedaço de pano usado em volta da cabeça. Normalmente feitas de algodão ou seda, as bandanas são versáteis e podem ser estilizadas de várias maneiras.
+
+Calor: +2
+Pode ser rasgado em trapos
+</name>
+</text>
+
+<!--Elmo do Cruzado-->
+<text>
+	<id>469</id>
+	<name>Um elmo integral feito de aço frio, projetado para oferecer proteção superior à cabeça durante o corpo a corpo brutal da guerra medieval.
+
+Calor: +4
+Defesa: +5
+Bloqueio corpo a corpo: +15%
+</name>
+</text>
+
+<!--Capacete de Piloto-->
+<text>
+	<id>470</id>
+	<name>Um capacete projetado para fornecer proteção aos pilotos juntamente com fiação eletrônica para permitir a comunicação do microfone, vem com uma viseira protetora, capaz de resistir a poucos golpes.
+
+Calor: +3
+Defesa: +2
+Bloqueio corpo a corpo: +5%
+</name>
+</text>
+
+<!--Capacete Altyn-->
+<text>
+	<id>471</id>
+	<name>Uma camada de 4 mm de espessura de capacete de titânio estampado, equipado com um protetor facial, interrompe as rodadas como se não fosse nada.
+
+Calor: +3
+Defesa: +7
+Bloqueio corpo a corpo: +10%
+Imune a críticos, cada crítico bloqueado desgasta o capacete com 5% de durabilidade
+</name>
+</text>
+
+<!--Capacete "Killa" Altyn-->
+<text>
+	<id>472</id>
+	<name>Uma camada de 4 mm de espessura de capacete de titânio estampado, equipado com um protetor facial, interrompe as rodadas como se não fosse nada. Também é pintado com spray para se parecer com um "Capacete Killa".
+
+Calor: +3
+Defesa: +7
+Bloqueio corpo a corpo: +10%
+Imune a críticos, cada crítico bloqueado desgasta o capacete com 5% de durabilidade
+</name>
+</text>
+
+<!--Máscara de gás GP5-->
+<text>
+	<id>473</id>
+	<name>Máscara de gás soviética completa com montagem frontal para cartuchos de filtro. Usado para proteger contra poluentes atmosféricos e ar contaminado.
+
+Calor: +2
+Fornece imunidade contra áreas contaminadas com gases tóxicos, tem mais durabilidade, mas desgasta-se constantemente em áreas contaminadas.
+Pode ser usado como um forro para usar outro equipamento de cabeça em cima dele.
+Clique no slot vazio da cabeça para desequipá-lo quando usado como revestimento
+</name>
+</text>
+
+<!--Máscara de palhaço-->
+<text>
+	<id>474</id>
+	<name>O capacete preferido dos palhaços em torno dos bandidos degenerados da ilha.
+
+Calor: +1
+Pode ser usado como um forro para usar outro equipamento de cabeça em cima dele.
+Clique no slot vazio da cabeça para desequipá-lo quando usado como revestimento
+</name>
+</text>
+
+<!--Capacete de Assalto-->
+<text>
+	<id>475</id>
+	<name>Capacete balístico com trilhos para acessórios e cobertura OVN. Projetado para atender aplicações de combate no escuro enquanto protege a cabeça.
+
+Calor: +3
+Defesa: +3
+Bloqueio corpo a corpo: +5%
+Imune a críticos, cada crítico bloqueado desgasta o capacete com 15% de durabilidade.
+Pode ser equipado com visão noturna e uma lanterna embaixo do cano
+</name>
+</text>
+
+<!--Capacete de Assalto-->
+<text>
+	<id>476</id>
+	<name>Capacete balístico com trilhos para acessórios e cobertura OVN. Projetado para atender aplicações de combate no escuro enquanto protege a cabeça.
+
+Calor: +3
+Defesa: +3
+Bloqueio corpo a corpo: +5%
+Imune a críticos, cada crítico bloqueado desgasta o capacete com 15% de durabilidade.
+Pode ser equipado com visão noturna e uma lanterna embaixo do cano
+</name>
+</text>
+
+<!--Capacete de Assalto-->
+<text>
+	<id>477</id>
+	<name>Capacete balístico com trilhos para acessórios e cobertura OVN. Projetado para atender aplicações de combate no escuro enquanto protege a cabeça.
+
+Calor: +3
+Defesa: +3
+Bloqueio corpo a corpo: +5%
+Imune a críticos, cada crítico bloqueado desgasta o capacete com 15% de durabilidade.
+Pode ser equipado com visão noturna e uma lanterna embaixo do cano
+</name>
+</text>
+
+<!--Capacete de Assalto-->
+<text>
+	<id>478</id>
+	<name>Capacete balístico com trilhos para acessórios e cobertura OVN. Projetado para atender aplicações de combate no escuro enquanto protege a cabeça.
+
+Calor: +3
+Defesa: +3
+Bloqueio corpo a corpo: +5%
+Imune a críticos, cada crítico bloqueado desgasta o capacete com 15% de durabilidade.
+Pode ser equipado com visão noturna e uma lanterna embaixo do cano
+</name>
+</text>
+
+<!--Desgaste superior-->
+
+<!--Capuz-->
+<text>
+	<id>501</id>
+	<name>Moletom com capuz com zíper vertical e dois bolsos grandes, oferece proteção decente contra as intempéries.
+
+Espaço: +2
+Calor: +5
+</name>
+</text>
+
+<!--Camisa-->
+<text>
+	<id>502</id>
+	<name>Uma peça de roupa comum de manga comprida e botões para a parte superior do corpo, feita de poliéster e algodão.
+
+Espaço: +1
+Calor: +3
+Pode ser rasgado em trapos
+</name>
+</text>
+
+<!--Capuz-->
+<text>
+	<id>504</id>
+	<name>Moletom com capuz com zíper vertical e dois bolsos grandes, oferece proteção decente contra as intempéries.
+
+Espaço: +2
+Calor: +5
+</name>
+</text>
+
+<!--Capa de chuva-->
+<text>
+	<id>505</id>
+	<name>Casaco confeccionado em tecido resistente à água com gola e capuz estendidos. Ajuda a proteger a parte superior do corpo da chuva.
+
+Espaço: +2
+Calor: +6
+À prova de chuva, não afetado pelo tempo chuvoso
+</name>
+</text>
+
+<!--Capa de chuva-->
+<text>
+	<id>506</id>
+	<name>Casaco confeccionado em tecido resistente à água com gola e capuz estendidos. Ajuda a proteger a parte superior do corpo da chuva.
+
+Espaço: +2
+Calor: +6
+À prova de chuva, não afetado pelo tempo chuvoso
+</name>
+</text>
+
+<!--Jaqueta-->
+<text>
+	<id>507</id>
+	<name>Jaqueta de couro clássica para motocicleta, robusta, durável e protetora. Sem falar que é foda.
+
+Espaço: +2
+Calor: +4
+Defesa: +2
+Bloqueio corpo a corpo: +5%
+</name>
+</text>
+
+<!--Casaco impermeável-->
+<text>
+	<id>509</id>
+	<name>Casaco de pele longo e solto, preso por um cinto. Feito com material isolante, oferece boa protecao contra o frio e lembra o visual de um casaco militar.
+
+Espaço: +1
+Calor: +9
+</name>
+</text>
+
+<!--Jaqueta Gorka-->
+<text>
+	<id>510</id>
+	<name>Jaqueta tatica usada por unidades estacionadas em Gorka, Chernarus. Possui grandes bolsos de carga para acesso rapido, oferece protecao basica com placas leves e ajuda a resistir ao frio e as intempéries.
+
+Espaço: +3
+Calor: +8
+Defesa: +2
+Bloqueio corpo a corpo: +10%
+</name>
+</text>
+
+<!--Camiseta-->
+<text>
+	<id>511</id>
+	<name>Camiseta de manga curta com decote redondo e corte regular. Nada de especial.
+
+Calor: +2
+Pode ser rasgado em trapos
+</name>
+</text>
+
+<!--Jaqueta Paramédico-->
+<text>
+	<id>512</id>
+	<name>Edição padrão de jaqueta de paramédico. Não é muito diferente de qualquer outro vestuário de trabalho, exceto pelas listras brilhantes e reflexivas.
+
+Espaço: +2
+Calor: +5
+</name>
+</text>
+
+<!--Jaqueta Orel-->
+<text>
+	<id>513</id>
+	<name>Jaqueta uniforme da unidade policial especial OREL. Um tanto quente, confortável e blindado.
+
+Espaço: +2
+Calor: +5
+Defesa: +1
+</name>
+</text>
+
+<!--Jaqueta de treino-->
+<text>
+	<id>514</id>
+	<name>Jaqueta casual, projetada para conforto e finalidade atlética. Tornou-se uma das peças de roupa mais usadas no mundo.
+
+Espaço: +1
+Calor: +4
+</name>
+</text>
+
+<!--Vestido Casual-->
+<text>
+	<id>515</id>
+	<name>Vestido feminino confortável. Manterá você bonita em qualquer situação.
+
+Espaço: +1
+Calor: +4
+</name>
+</text>
+
+<!--Jaqueta de plumas-->
+<text>
+	<id>516</id>
+	<name>Jaqueta inflável altamente compressível, cheia de penas macias e quentes de pato ou gansos, é aconchegante.
+
+Espaço: +2
+Calor: +8
+</name>
+</text>
+
+<!--Jaqueta de caçador-->
+<text>
+	<id>517</id>
+	<name>Casaco durável, concebido para períodos prolongados ao ar livre. O padrão camuflado é o traje de caça ideal no ambiente certo.
+
+Espaço: +3
+Calor: +6
+Defesa: +1
+Bloqueio corpo a corpo: +5%
+</name>
+</text>
+
+<!--Suéter-->
+<text>
+	<id>518</id>
+	<name>Suéter grosso de lã de mangas compridas. É muito quente, muito absorvente e coça muito.
+
+Espaço: +1
+Calor: +6
+</name>
+</text>
+
+<!--Moletom incrível-->
+<text>
+	<id>519</id>
+	<name>O lendário moletom com capuz do homem, o mito, a lenda... Cannedbits, também conhecido como Michael Azovsky.
+
+Espaço: +3
+Calor: +8
+</name>
+</text>
+
+<!--Corpo a corpo-->
+
+<!--Mãos-->
+<text>
+	<id>550</id>
+	<name>Quando de mãos vazias, clique para recuperar armadilhas para ursos e cercas de arame
+Claymores, esconderijos de itens, geradores, holofotes
+</name>
+</text>
+
+<!--Machadinha-->
+<text>
+	<id>551</id>
+	<name>Uma ferramenta com lâmina de uma mão e uma cabeça de martelo em um dos lados. É a ferramenta para qualquer homem ao ar livre.
+Dano: 38-63
+Chance de Acerto Crítico: 25%
+Chance de bloqueio: 25%
+Atraso por ataque: 1.5s
+Pode derrubar árvores
+</name>
+</text>
+
+<!--Pá-->
+<text>
+	<id>552</id>
+	<name>Pá comum. Lâmina de aço forte divide facilmente o solo e os crânios.
+Dano: 19-31
+Chance de Acerto Crítico: 15%
+Chance de bloqueio: 35%
+Atraso por ataque: 1.6s
+Pode ser usado como ferramenta agrícola
+Pode cavar sepulturas para cadáveres sobreviventes
+</name>
+</text>
+
+<!--Chave para tubos-->
+<text>
+	<id>553</id>
+	<name>Chave ajustável. Antes usado para girar porcas ou parafusos, agora é uma arma contundente decente.
+Dano: 23-38
+Chance de Acerto Crítico: 25%
+Chance de bloqueio: 15%
+Atraso por ataque: 1.3s
+</name>
+</text>
+
+<!--Taco de beisebol-->
+<text>
+	<id>554</id>
+	<name>Um taco de beisebol de madeira feito para acertar bolas de beisebol ou transformado em uma arma icônica do apocalipse zumbi para derrubar caveiras.
+Dano: 26-44
+Chance de Acerto Crítico: 25%
+Chance de bloqueio: 15%
+Atraso por ataque: 1s
+Ingrediente para: Taco de beisebol farpado
+</name>
+</text>
+
+<!--Machado de Bombeiro-->
+<text>
+	<id>555</id>
+	<name>Machado de bombeiro usado principalmente para arrombar portas e janelas. É a resposta, se a pergunta for uma cidade cheia de zumbis.
+Dano: 45-75
+Chance de Acerto Crítico: 25%
+Chance de bloqueio: 25%
+Atraso por ataque: 1.6s
+Can chop down trees
+Pode desmontar móveis
+Pode sucatear chapas de metal de acidentes de ônibus e helicópteros
+</name>
+</text>
+
+<!--Pé de cabra-->
+<text>
+	<id>556</id>
+	<name>Uma arma corpo a corpo durável e multifuncional e uma ferramenta para arrombar portas e caixotes.
+Dano: 19-31
+Chance de Acerto Crítico: 25%
+Chance de bloqueio: 15%
+Atraso por ataque: 1.2s
+Pode desmontar móveis
+Pode sucatear chapas de metal de acidentes de ônibus e helicópteros
+</name>
+</text>
+
+<!--Faca de açougueiro-->
+<text>
+	<id>557</id>
+	<name>Uma faca grande, pesada e enferrujada. Projetado para cortar carne crua espessa. Também pode quebrar ossos facilmente. Usado principalmente por açougueiros.
+Dano: 14-24
+Chance de Acerto Crítico: 10%
+Chance de bloqueio: 5%
+Atraso por ataque: 0.8s
+</name>
+</text>
+
+<!--Faca de caça-->
+<text>
+	<id>558</id>
+	<name>A faca de caça é uma ferramenta especializada projetada com ponta levemente curvada, principalmente para jogos de preparação de campo.
+Dano: 15-25
+Chance de Acerto Crítico: 15%
+Chance de bloqueio: 5%
+Atraso por ataque: 0.8s
+</name>
+</text>
+
+<!--Canivete-->
+<text>
+	<id>559</id>
+	<name>Faca de combate afiada com lâmina resistente e cabo. Ótimo para autodefesa, mas também tem outros usos mais mundanos.
+
+Dano: 16-26
+Chance de Acerto Crítico: 20%
+Chance de bloqueio: 5%
+Atraso por ataque: 0.8s
+</name>
+</text>
+
+<!--Picareta-->
+<text>
+	<id>560</id>
+	<name>Uma picareta de ferro!...pode extrair diamantes!...opa, jogo errado.
+Dano: 33-55
+Chance de Acerto Crítico: 15%
+Chance de bloqueio: 35%
+Atraso por ataque: 1.3s
+
+Pode ser usado como ferramenta agrícola
+</name>
+</text>
+
+<!--Forcado-->
+<text>
+	<id>561</id>
+	<name>Ferramenta agrícola composta por cabo longo e pontas grossas em uma das extremidades, usada para levantar e lançar feno, palha ou folhas, mas também capaz de perfurar carne.
+Dano: 30-50
+Chance de Acerto Crítico: 15%
+Chance de bloqueio: 35%
+Atraso por ataque: 1.2 s
+Efeito Corpo a Corpo: O próximo ataque tem um aumento de 20% na chance de bloqueio, tempo de espera de 10s
+Pode ser usado como ferramenta agrícola
+</name>
+</text>
+
+<!--Marreta-->
+<text>
+	<id>562</id>
+	<name>Uma cabeça plana de metal pode causar danos devastadores devido ao seu grande tamanho. Certamente útil para vários fins de demolição.
+Dano: 52-88
+Chance de Acerto Crítico: 15%
+Chance de Bloqueio: 15%
+Atraso por ataque: 1.8s
+Efeito Corpo a Corpo: O próximo ataque é um acerto crítico garantido, tempo de espera de 10s
+Pode desmontar móveis
+Pode sucatear chapas de metal de acidentes de ônibus e helicópteros
+</name>
+</text>
+
+<!--Espada do Cruzado-->
+<text>
+	<id>563</id>
+	<name>Nas lendas, uma espada como esta está destinada a um grande herói. O portador seria alguém de coração puro, escolhido por Deus para manejá-lo contra as forças do mal.
+Dano: 56-94
+Chance de Acerto Crítico: 35%
+Chance de Bloqueio: 25%
+Atraso por ataque: 1.5s
+Efeito Corpo a Corpo: O dano do próximo ataque é duplicado, tempo de espera de 10s
+Pode derrubar árvores
+</name>
+</text>
+
+<!--Frigideira-->
+<text>
+	<id>564</id>
+	<name>Uma panela de ferro fundido construída propositadamente para alimentar o ódio pelos seus inimigos.
+Dano: 25-41
+Chance de Acerto Crítico: 40%
+Chance de bloqueio: 35%
+Atraso por ataque: 0.9s
+</name>
+</text>
+
+<!--Katana-->
+<text>
+	<id>565</id>
+	<name>Uma lâmina japonesa de gume único, historicamente usada pela classe samurai no Japão feudal. Seu design elegante é considerado uma arma e uma obra de arte.
+Dano: 48-81
+Chance de Acerto Crítico: 35%
+Chance de bloqueio: 25%
+Atraso por ataque: 1.2s
+Efeito Corpo a Corpo: Obtenha um aumento de velocidade após o próximo ataque, tempo de espera de 5s
+Pode derrubar árvores
+</name>
+</text>
+
+<!--Taco de beisebol farpado-->
+<text>
+	<id>566</id>
+	<name>Um taco de beisebol normal enrolado em arame farpado retorcido.
+Dano: 37-63
+Chance de Acerto Crítico: 35%
+Chance de bloqueio: 20%
+Atraso por ataque: 1s
+Efeito corpo a corpo: Retarda o inimigo atacado, tempo de espera de 5s
+</name>
+</text>
+
+<!--Motosserra-->
+<text>
+	<id>567</id>
+	<name>Texas, nosso Texas! Tão maravilhoso tão ótimo!
+Dano: 0/10
+Chance de Acerto Crítico: 0%/20%
+Chance de bloqueio: 0%/40%
+Atraso por ataque: 0.1s   
+Não se desgasta por acerto, mas se desgasta passivamente quando ativo, reabasteça com gasolina
+Pode derrubar árvores  (requer ativação)
+Pode desmontar móveis (requer ativação)
+Pode sucatear chapas de metal de acidentes de ônibus e helicópteros (requer ativação)
+</name>
+</text>
+
+<!--Gerador-->
+<text>
+	<id>568</id>
+	<name>Gerador portátil movido a gasolina. Fornece eletricidade suficiente para abastecer uma pequena casa enquanto durar o combustível.
+
+Só pode ser escolhido e movido com o slot de mão
+Pode ser implantado e abastecido com gasolina
+Pode ser ativado para diversas aplicações elétricas
+</name>
+</text>
+
+<!--Placa metálica-->
+<text>
+	<id>569</id>
+	<name>Folhas de metal descartadas em destroços, ótimas se você precisar fazer alguma construção séria, caso contrário, não será tão útil.
+
+Ingrediente para: Cerca de Metal, Veículo Reforçado
+Só pode ser escolhido e movido com o slot de mão
+</name>
+</text>
+
+<!--Feedback do jogador ao encontrar um local secreto-->
+<text>
+	<id>150</id>
+	<name>Isto é um achado!</name>
+</text>
+
+<text>
+	<id>151</id>
+	<name>Ligue para lançamento aéreo</name>
+</text>
+
+<text>
+	<id>152</id>
+	<name>Carregar</name>
+</text>
+
+<text>
+	<id>153</id>
+	<name>Este veículo não possui metralhadora montada</name>
+</text>
+
+<text>
+	<id>154</id>
+	<name>Não posso operar aqui</name>
+</text>
+
+<!--Texto de dificuldade do menu principal-->
+<text>
+	<id>155</id>
+	<name>Por favor selecione a dificuldade do jogo
+Alguns conteúdos só podem ser desbloqueados em dificuldade maior</name>
+</text>
+
+<text>
+	<id>156</id>
+	<name>Preciso de uma arma com um lançador de granadas subterrâneo</name>
+</text>
+
+<text>
+	<id>157</id>
+	<name>Munição: </name>
+</text>
+
+<text>
+	<id>158</id>
+	<name>Eu não posso fazer isso quando estou doente</name>
+</text>
+
+<!--sangue insuficiente durante a transfusão-->
+<text>
+	<id>159</id>
+	<name>Preciso de mais sangue para fazer uma transfusão</name>
+</text>
+
+<text>
+	<id>160</id>
+	<name>Já estou sangrando!</name>
+</text>
+
+<!--Recusar missão-->
+<text>
+	<id>161</id>
+	<name>Recusar</name>
+</text>
+
+<!--resposta do bot após recusa ou falha da missão-->
+<text>
+	<id>162</id>
+	<name>Confiamos em você. Você nos decepcionou. Esta conversa acaba aqui!</name>
+</text>
+
+<!--Feedback de sobreviventes amigáveis-->
+
+<!--Seguindo-->
+<text>
+	<id>163</id>
+	<name>Eu vou te seguir, amigo
+</name>
+</text>
+
+<!--Guardando-->
+<text>
+	<id>164</id>
+	<name>Eu protegerei esta área para você, amigo
+</name>
+</text>
+
+<!--Feedback do jogador enquanto dorme-->
+
+<text>
+	<id>165</id>
+	<name>Nao consigo fechar os olhos sabendo que ha inimigos tao perto</name>
+</text>
+
+<text>
+	<id>166</id>
+	<name>É melhor eu dormir à noite</name>
+</text>
+
+<text>
+	<id>167</id>
+	<name>Você pode dormir à noite. Se você estiver com boa saúde, acordará às 6h; se você estiver com fome ou com sede, você acordará mais cedo
+</name>
+</text>
+
+<text>
+	<id>168</id>
+	<name>O estado atual permite que você durma até: </name>
+</text>
+
+<text>
+	<id>169</id>
+	<name>Você consegue dormir nas condições atuais</name>
+</text>
+
+<text>
+	<id>170</id>
+	<name>Está muito frio aqui para dormir</name>
+</text>
+
+<text>
+	<id>171</id>
+	<name>Estou com muita fome</name>
+</text>
+
+<text>
+	<id>172</id>
+	<name>Estou com muita sede</name>
+</text>
+
+<text>
+	<id>173</id>
+	<name>Não posso fazer isso enquanto estou sangrando</name>
+</text>
+
+<text>
+	<id>174</id>
+	<name>Preciso de um local seguro e abrigado para conseguir dormir</name>
+</text>
+
+<text>
+	<id>175</id>
+	<name>Nao consigo dormir enquanto estou com fome ou sede</name>
+</text>
+
+<text>
+	<id>176</id>
+	<name>Não consigo dormir durante o dia</name>
+</text>
+
+<text>
+	<id>177</id>
+	<name>Não consigo dormir aqui</name>
+</text>
+
+<text>
+	<id>178</id>
+	<name>Lenda</name>
+</text>
+
+<text>
+	<id>179</id>
+	<name>Muito perto!</name>
+</text>
+
+<!--Descrições dos personagens-->
+
+<!--Xavier "Piloto" desbloqueado-->
+<text>
+	<id>180</id>
+	<name>Xavier "Piloto"
+Equipamento inicial: capacete de piloto, suéter, calça gorka, UMP-45, .45 ACP x30, sinalizadores x2
+Vantagens desbloqueadas: Sobrevivente nível 2, Batedor nível 1</name>
+</text>
+
+<!--Xavier "Piloto" bloqueado-->
+<text>
+	<id>181</id>
+	<name>Xavier "Piloto"
+Requisito de desbloqueio: encontre 13 helicópteros acidentados em uma única corrida.
+Requisito de dificuldade: “Lenda”</name>
+</text>
+
+<!--Rodolfo "Caçador" desbloqueado-->
+<text>
+	<id>182</id>
+	<name>Rodolfo "Caçador"
+Equipamento inicial: ushanka, jaqueta de caçador, calças de caçador, faca de caça, IZh-43, calibre 12 x12, vara de pesca giratória
+Vantagens desbloqueadas: Vigilância nível 1, Caçador nível 2</name>
+</text>
+
+<!--Rodolfo "Caçador" Bloqueado-->
+<text>
+	<id>183</id>
+	<name>Rodolfo "Caçador"
+Requisito de desbloqueio: Mate 3 cervos albinos em uma única corrida
+Requisito de dificuldade: “Lenda”</name>
+</text>
+
+<!--Taman "Guarda" Desbloqueado-->
+<text>
+	<id>184</id>
+	<name>Taman "Guarda"
+Equipamento inicial: chapéu de polícia, conjunto orel, AKs-74U, 5,45x39mm x30, bebida energética
+Vantagens desbloqueadas: Atirador de elite nível 2, fazendeiro de balas nível 1</name>
+</text>
+
+<!--Taman "Guarda" Bloqueado-->
+<text>
+	<id>185</id>
+	<name>Taman "Guarda"
+Requisito de desbloqueio: Mate "The Tank" com a torre da metralhadora montada no HUMVEE.
+Requisito de dificuldade: “Lenda”</name>
+</text>
+
+<!--Daria "Cientista" Desbloqueado-->
+<text>
+	<id>186</id>
+	<name>Daria "Cientista"
+Equipamento inicial: avental, camisa, calça de trabalho, tetraciclina, kit intravenoso, vitaminas, morfina, curativos x3
+Vantagens desbloqueadas: Escarlate(lvl.2), Velocista</name>
+</text>
+
+<!--Daria "Cientista" Bloqueado-->
+<text>
+	<id>187</id>
+	<name>Daria "Cientista"
+Requisito de desbloqueio: Alcance a ilha 5
+Requisito de dificuldade: “Lenda”</name>
+</text>
+
+<!--Alerta de pedra de amolar-->
+<text>
+	<id>188</id>
+	<name>Afiar +25%</name>
+</text>
+
+<!--Desert Eagle Bloqueado-->
+<text>
+	<id>189</id>
+	<name>Desert Eagle
+Requisito de desbloqueio: Carregue um conjunto de cowboy (chapéu de cowboy, camisa, revólver magnum) em uma única corrida.
+Requisito de dificuldade: "Regular" ou superior
+Situação Atual:</name>
+</text>
+
+<!--Desert Eagle Desbloqueado-->
+<text>
+	<id>190</id>
+	<name>Desert Eagle
+Desbloqueado
+Locais: Bunkers subterrâneos, Lojas de armas</name>
+</text>
+
+<!--Katana Bloqueado-->
+<text>
+	<id>191</id>
+	<name>Katana
+Requisito de desbloqueio: Mate 100 zumbis com qualquer faca.
+Requisito de dificuldade: “Lenda”
+Situação Atual:</name>
+</text>
+
+<!--Katana Desbloqueado-->
+<text>
+	<id>192</id>
+	<name>Katana
+Desbloqueado
+Locais: Lojas de armas</name>
+</text>
+
+<!--Feedback de uso de pedra de amolar-->
+<text>
+	<id>193</id>
+	<name>A arma foi afiada</name>
+</text>
+
+<text>
+	<id>194</id>
+	<name>Esta arma não pode ser afiada</name>
+</text>
+
+<text>
+	<id>195</id>
+	<name>Criar corda</name>
+</text>
+
+<text>
+	<id>196</id>
+	<name>Preciso de 3 trapos para criar uma corda</name>
+</text>
+
+<text>
+	<id>197</id>
+	<name>Me siga! Amigo</name>
+</text>
+
+<text>
+	<id>198</id>
+	<name>Fique aqui! Amigo</name>
+</text>
+
+<text>
+	<id>199</id>
+	<name>Vá embora!</name>
+</text>
+
+<text>
+	<id>200</id>
+	<name>Olá! Bom sobrevivente</name>
+</text>
+
+<text>
+	<id>201</id>
+	<name>Eu não posso fazer isso aqui</name>
+</text>
+
+<text>
+	<id>202</id>
+	<name>Existem inimigos por perto!</name>
+</text>
+
+<!--Avisos da Ponte da Ilha 5-->
+<text>
+	<id>203</id>
+	<name>Droga! A ponte está destruída!
+Hmm...talvez eu possa tentar chegar lá em cima, perae, e se eu conseguir pular a rampa usando um carro?</name>
+</text>
+
+<text>
+	<id>204</id>
+	<name>Você está pronto para pular a rampa para chegar à ponte?
+❗Aviso: Não há caminho de volta e é muito perigo o caminho pela frente</name>
+</text>
+
+<text>
+	<id>205</id>
+	<name>Olá</name>
+</text>
+
+<text>
+	<id>206</id>
+	<name>Ei! você poderia fazer um trabalho para nós?</name>
+</text>
+
+<text>
+	<id>207</id>
+	<name>Não atire! nós somos sobreviventes amigáveis</name>
+</text>
+
+<text>
+	<id>208</id>
+	<name>Saudações</name>
+</text>
+
+<text>
+	<id>209</id>
+	<name>Obrigado!</name>
+</text>
+
+<text>
+	<id>210</id>
+	<name>Oi! Ouvimos falar de você! Você estava ajudando pessoas em apuros e queremos presenteá-lo por seus feitos! Tome isto: </name>
+</text>
+
+<text>
+	<id>611</id>
+	<name>Eu aprendi algum conhecimento com isso!</name>
+</text>
+
+<text>
+	<id>612</id>
+	<name>Ler</name>
+</text>
+
+<text>
+	<id>613</id>
+	<name>Eu pensei que era imortal, mas infelizmente não sou</name>
+</text>
+
+<text>
+	<id>614</id>
+	<name>minutos</name>
+</text>
+
+<text>
+	<id>615</id>
+	<name>Tela artesanal</name>
+</text>
+
+<text>
+	<id>616</id>
+	<name>Estoque de itens</name>
+</text>
+
+<text>
+	<id>617</id>
+	<name>•Taxas lentas de fome e sede
+•Tempo quente
+•Redução do dano do NPC ao jogador
+</name>
+</text>
+
+<text>
+	<id>618</id>
+	<name>•Taxas moderadas de fome e sede
+• Clima normal
+• Danos normais do NPC ao jogador
+</name>
+</text>
+
+<text>
+	<id>619</id>
+	<name>• Aumento das taxas de fome e sede
+•Tempo frio
+•Aumento do dano do NPC ao jogador
+•Mais infectados em algumas áreas
+</name>
+</text>
+
+<text>
+	<id>620</id>
+	<name>• Aumento das taxas de fome e sede • Luzes apagadas em bunkers
+•Tempo frio •NPCs podem criticar o jogador
+•Aumento do dano do NPC ao jogador
+•Mais infectados em algumas áreas
+• Névoa de guerra
+</name>
+</text>
+
+<text>
+	<id>621</id>
+	<name>Começar
+</name>
+</text>
+
+<text>
+	<id>622</id>
+	<name>Tem certeza de que deseja ir para a quinta ilha?
+Depois disso, não será mais possível voltar
+</name>
+</text>
+
+<text>
+	<id>623</id>
+	<name>Tem certeza de que deseja ir para a quinta ilha?
+Depois disso, não será mais possível voltar
+</name>
+</text>
+
+<text>
+	<id>624</id>
+	<name>A vara de pescar está quebrada
+</name>
+</text>
+
+<text>
+	<id>625</id>
+	<name>Coquetel molotov artesanal
+</name>
+</text>
+
+<text>
+	<id>626</id>
+	<name>Coquetel molotov e corda
+</name>
+</text>
+
+<text>
+	<id>627</id>
+	<name>3 Trapos = Corda
+</name>
+</text>
+
+<text>
+	<id>628</id>
+	<name>Uísque + Sinalizador = Coquetel Molotov
+</name>
+</text>
+
+<text>
+	<id>629</id>
+	<name>Esconder suprimentos
+</name>
+</text>
+
+<text>
+	<id>630</id>
+	<name>2 Sacos = Lona
+</name>
+</text>
+
+<text>
+	<id>631</id>
+	<name>Lona + Madeira = Estoque de itens
+Os suprimentos guardados lá dentro não desaparecerão
+</name>
+</text>
+
+<text>
+	<id>632</id>
+	<name>Mike "Designer"
+Requisito de desbloqueio: Alcance a ilha desconhecida
+Requisito de dificuldade: “Lenda”
+</name>
+</text>
+
+<text>
+	<id>633</id>
+	<name>Mike "Designer"
+Equipamento inicial: conjunto Orel, panela, AK-74, munição 5,45x39 x60, Colt 1911, .45 ACP x60, punho Laser AK, lanterna de pistola, mira de pistola
+Vantagens desbloqueadas: Atirador de elite nível 1, Batedor nível 1, Perfurador nível 1</name>
+</text>
+
+<text>
+	<id>634</id>
+	<name>Gesso adesivo
+Requisito de desbloqueio: Escape usando um dos seguintes personagens: Emilio "Doutor", Billy "Red", Dave "Boxer"</name>
+</text>
+
+<text>
+	<id>635</id>
+	<name>Isqueiro
+Requisito de desbloqueio: Escape usando um dos seguintes personagens: Lee "Maníaco", Sergey "Polaco", John "Motociclista"</name>
+</text>
+
+<text>
+	<id>636</id>
+	<name>Granada de fumaça
+Requisito de desbloqueio: Escape usando um dos seguintes personagens: Ganzo "Dragão", Tom "Sobrevivente", Garry "Veterano"</name>
+</text>
+
+<text>
+	<id>637</id>
+	<name>Mira laser
+Requisito de desbloqueio: Escape usando um dos seguintes personagens: Kate "Turista", Jasmine "Lumber", Aika "Longarina"</name>
+</text>
+
+<text>
+	<id>638</id>
+	<name>Cartão chave do oficial
+Requisito de desbloqueio: Escape usando um dos seguintes personagens: Xavier “Piloto”, Rudolf “Jager”, Taman “Guarda”, Daria “Cientista”</name>
+</text>
+
+<text>
+	<id>639</id>
+	<name>...Repita! Nós ouvimos você! Estaremos aqui em um dia! Aguente firme...</name>
+</text>
+
+<text>
+	<id>640</id>
+	<name>Tente usar o rádio
+entrar em contato com os sobreviventes vizinhos?</name>
+</text>
+
+<text>
+	<id>641</id>
+	<name>Fumaça</name>
+</text>
+
+<text>
+	<id>642</id>
+	<name>Proteger</name>
+</text>
+
+<text>
+	<id>643</id>
+	<name>Fertilizar</name>
+</text>
+
+<text>
+	<id>644</id>
+	<name>Itens</name>
+</text>
+
+<text>
+	<id>645</id>
+	<name>Gesso adesivo
+Desbloqueado
+Localização: Hospital, Cidades</name>
+</text>
+
+<text>
+	<id>646</id>
+	<name>Isqueiro
+Desbloqueado
+Localização: Corpo de Bombeiros, Armazém</name>
+</text>
+
+<text>
+	<id>647</id>
+	<name>Granada de fumaça
+Desbloqueado
+Localização: Bunker, base militar</name>
+</text>
+
+<text>
+	<id>648</id>
+	<name>Mira laser
+Desbloqueado
+Localização: Bunker, base militar</name>
+</text>
+
+<text>
+	<id>649</id>
+	<name>Cartão chave
+Unlocked
+Localização: Transportado por oficiais infectados</name>
+</text>
+
+<text>
+	<id>650</id>
+	<name>Eu preciso de fogo para acendê-lo</name>
+</text>
+
+<text>
+	<id>651</id>
+	<name>Não consigo dormir, não posso perder o helicóptero de resgate</name>
+</text>
+
+<text>
+	<id>652</id>
+	<name>Não posso ir para o bunker, não posso perder o helicóptero de resgate</name>
+</text>
+
+<text>
+	<id>653</id>
+	<name>Ei, sobrevivente! Meu nome é Boris, bem-vindo a bordo!</name>
+</text>
+
+<text>
+	<id>654</id>
+	<name>Nadia, estamos indo para leste e sinalize 4316!</name>
+</text>
+
+<text>
+	<id>655</id>
+	<name>Sobrevivente escapou</name>
+</text>
+
+<text>
+	<id>656</id>
+	<name>Preciso voltar para o rádio!</name>
+</text>
+
+<text>
+	<id>657</id>
+	<name>Ilha Desconhecida #</name>
+</text>
+
+<text>
+	<id>658</id>
+	<name>Você está pronto para usar o elevador?
+Você não poderá voltar novamente</name>
+</text>
+
+<text>
+	<id>659</id>
+	<name>Esta porta precisa de um cartão-chave</name>
+</text>
+
+<text>
+	<id>660</id>
+	<name>Eu preciso de uma planta</name>
+</text>
+
+<text>
+	<id>661</id>
+	<name>Teclado (WASD)</name>
+</text>
+
+<text>
+	<id>662</id>
+	<name>Obrigado!</name>
+</text>
+
+<text>
+	<id>663</id>
+	<name>Criar supressor improvisado</name>
+</text>
+
+<text>
+	<id>664</id>
+	<name>Combinar</name>
+</text>
+
+<text>
+	<id>665</id>
+	<name>Criar cama</name>
+</text>
+
+<text>
+	<id>666</id>
+	<name>Bob "Novo preto"
+Requisito de desbloqueio: desbloquear todos os personagens</name>
+</text>
+
+
+<text>
+	<id>667</id>
+	<name>Bob "Novo preto"
+Equipamento inicial: sobretudo, calças de trabalho, capacete gorka, colete à prova de balas, AKM, 7,62x39 x80, tipoia de arma, bandagens x3
+Vantagens desbloqueadas: Atirador de elite nível 2, Batedor nível 2
+Peculiaridades Especiais: reputação -100, comece com um amigo bandido</name>
+</text>
+
+<!--NBC Boots-->
+<text>
+	<id>700</id>
+	<name>Parte de um traje de proteção "Nuclear, Biológico, Químico"
+
+Quando usado, ignora derramamentos de risco biológico
+</name>
+</text>
+
+<!--NBC Gloves-->
+<text>
+	<id>701</id>
+	<name>Parte de um traje de proteção "Nuclear, Biológico, Químico"
+
+Quando usado, não há penalidade por saquear zumbis
+</name>
+</text>
+
+<!--C Protective Suit-->
+<text>
+	<id>702</id>
+	<name>Um traje de proteção feito de maneira grosseira reproduz as propriedades de um traje CBRN, mas não pode ser usado como forro para colocar coletes em cima dele.
+
+Quando a durabilidade é ≥ 50%, o traje é à prova de chuva
+Efeitos quando a durabilidade é ≥ 50% e combinada com botas e luvas NBC: radiação, risco biológico e resistência química
+Pode ser selado para ser imune a gases tóxicos por 2 min, precisa de 2 min de resfriamento após</name>
+</text>
+
+<!--Hazmat Suit-->
+<text>
+	<id>703</id>
+	<name>Um equipamento EPI impermeável projetado para proteger contra produtos químicos perigosos e ameaças biológicas.
+
+Quando a durabilidade é ≥ 50%, o traje é à prova de chuva
+Efeitos quando a durabilidade é ≥ 50% e combinada com botas e luvas NBC: risco biológico e resistente a produtos químicos
+</name>
+</text>
+
+<!--12 Tambor medidor-->
+<text>
+	<id>704</id>
+	<name>Um carregador de tambor com capacidade para 20 cartuchos calibre 12.
+
+Pode ser instalado em: Saiga-12K
+</name>
+</text>
+
+<!--Balde de tinta-->
+<text>
+	<id>705</id>
+	<name>Mude a cor das roupas, calças, mochilas
+</name>
+</text>
+
+<!--Headlamp-->
+<text>
+	<id>706</id>
+	<name>Um dispositivo de iluminação viva-voz usado na cabeça com uma alça ajustável
+
+Calor: +1
+Requer bateria para usar
+</name>
+</text>
+
+<!--NVG-->
+<text>
+	<id>707</id>
+	<name>Óculos de visão noturna [NVG] alimentados por bateria para intensificar imagens em ambientes com pouca luz, vêm com alça de cabeça.
+
+Calor: +1
+Requer bateria para usar
+</name>
+</text>
+
+<!--AI-2 Medkit-->
+<text>
+	<id>708</id>
+	<name>O kit médico AI-2 original da era da Guerra Fria, projetado para proteger os cidadãos e militares soviéticos contra ameaças químicas, biológicas, radiológicas e nucleares (QBRN).
+
+Saúde +50
+Efeito da droga: interrompe o sangramento e torna o jogador temporariamente imune à radiação
+Duração do efeito: 120 seg
+</name>
+</text>
+
+<!--Canil Doggo-->
+<text>
+	<id>709</id>
+	<name>Um canil desgastado com marcas de mastigação na porta, escondido dentro, um cachorro marrom de pêlo curto cochila pacificamente, enrolado em uma cama de feno.
+
+Pode liberar doggo para lutar por você e carregar itens
+</name>
+</text>
+
+<!--Adrenaline-->
+<text>
+	<id>710</id>
+	<name>Adrenalina psicoestimulante usada para melhorar a atenção, a cognição e o desempenho físico.
+
+Saúde: +10
+Efeito da droga: aumenta as funções físicas
+Taxa de tiro na cabeça aumentada em 20%, taxa de bloqueio aumentada em 20%, velocidade de movimento aumentada em 20%
+Duração do efeito: 120 seg
+Pilha máxima: 3
+</name>
+</text>
+
+<!--CBRN Suit-->
+<text>
+	<id>711</id>
+	<name>Uma versão militar mais avançada do traje NBC, projetada com foco em ameaças radiológicas e contaminantes de gases, também é feita de maneira muito leve, para que possa colocar coletes selecionados em cima dele.
+Quando a durabilidade é ≥ 50%, o traje é à prova de chuva.
+Efeitos quando a durabilidade é ≥ 50% e combinada com botas e luvas NBC: radiação, risco biológico e resistência química.
+Pode ser selado para ser imune a gases tóxicos por 2 min, precisa de 2 min de resfriamento após.
+Pode colocar coletes selecionados em cima dele
+</name>
+</text>
+
+<!--Traje NBC-->
+<text>
+	<id>712</id>
+	<name>Um traje “Nuclear, Biológico e Químico” projetado para oferecer proteção completa contra essas ameaças.
+
+Quando a durabilidade é ≥ 50%, o traje é à prova de chuva.
+Efeitos quando a durabilidade é ≥ 50% e combinada com botas e luvas NBC: radiação, risco biológico e resistência química</name>
+</text>
+
+<text>
+	<id>713</id>
+	<name></name>
+</text>
+
+<!--Camurça-->
+<text>
+	<id>714</id>
+	<name>Um couro flexível, durável e leve, conhecido pela sua excepcional suavidade e respirabilidade. Camurça é considerado um couro de luxo.
+
+Ingrediente para: Cama (requer madeira)</name>
+</text>
+
+<!--Tambor 5,45x39-->
+<text>
+	<id>715</id>
+	<name>Um tambor duplo com capacidade para 95 cartuchos de 5,45x39
+
+Pode ser instalado em: AK-74, AKs-74u
+</name>
+</text>
+
+<!--Estoque de Suprimentos-->
+<text>
+	<id>716</id>
+	<name>Um toque de magia dos Devs para dar aos seus itens a capacidade de saltar em dimensão!
+
+Espaço: +6
+Pode armazenar itens ou equipamentos para serem salvos e gerados em um novo jogo.
+Os suprimentos armazenados dentro dele podem ser acessados ​​novamente gerando o stache de suprimentos em seu novo jogo salvo usando o Núcleo de Controle</name>
+</text>
+
+<!--Estoque Secreto-->
+<text>
+	<id>717</id>
+	<name>Um toque de magia dos Devs para armazenar todos os seus equipamentos exclusivos de localização secreta!
+</name>
+</text>
+
+<!--Ovo-->
+<text>
+	<id>718</id>
+	<name>Ovos orgânicos. ricos em proteínas, vêm de galinhas rurais que ficam livres para passear ao ar livre durante o dia e são alojadas com segurança em galinheiros à noite.
+
+Comida: +10
+Água: +10
+Pilha máxima: 3
+Ingrediente para: Fried eggs, Eggs Scramble w/tomatoes
+</name>
+</text>
+
+<!--Frango Cru-->
+<text>
+	<id>719</id>
+	<name>Carne de ave crua. Uma boa fonte de proteína, mas insegura para consumo sem o preparo adequado.
+
+Comida: +25
+Água: +10
+Tem 50% de chance de ficar doente depois de comer
+Pode ser frito em uma fogueira
+Ingrediente para: Carne frita com pimentão
+</name>
+</text>
+
+<!--Frango Assado-->
+<text>
+	<id>720</id>
+	<name>Carne de frango assada. Simples, nutritiva e mais segura para consumo após o preparo.
+
+Comida: +35
+Água: +15
+Saúde: +20
+</name>
+</text>
+
+<!--Pistol Sight-->
+<text>
+	<id>721</id>
+	<name>Uma mira de pistola RDS básica
+
+Chance de tiro na cabeça: +5%
+Dispersão: -2
+Pode ser instalado em: FNX, Glock, Desert Eagle
+</name>
+</text>
+
+<!--Pistol Suppressor-->
+<text>
+	<id>722</id>
+	<name>Um supressor de pistola de alto calibre também deve silenciar calibres menores.
+
+Torna as pistolas silenciosas
+Pode ser instalado em: FNX 45, Colt 1911, Glock 17, Desert Eagle,MAC-10, MP5K, UMP-45, PP-19 Bizon, KRISS Vector, Mini-UZI
+</name>
+</text>
+
+<!--Pistol Flashlight-->
+<text>
+	<id>723</id>
+	<name>Uma luz tática usada em conjunto com uma pistola para iluminar o alvo.
+
+Pode ser instalado em: FNX 45, Colt 1911, Glock 17
+</name>
+</text>
+
+<!--Fried Egg-->
+<text>
+	<id>724</id>
+	<name>Um ovo frito com o lado ensolarado para cima. Simples e delicioso.
+
+Comida: +20
+Água: +5
+Saúde: +5
+Vitalidade: +5
+</name>
+</text>
+
+<!--Stir-fried Meat w/Bell Peppers-->
+<text>
+	<id>725</id>
+	<name>Este refogado clássico combina carne tenra em fatias finas com pimentões crocantes em uma delícia saborosa. Decore e sirva.
+
+Comida: +60
+Água: +15
+Saúde: +30
+Vitalidade: +30
+</name>
+</text>
+
+<!--Eggs Scramble w/Tomatoes-->
+<text>
+	<id>726</id>
+	<name>Um prato simples, mas super reconfortante, popular na culinária caseira chinesa, feito com ovos mexidos em uma panela quente e adição de tomates em cubos.
+
+Comida: +35
+Água: +20
+Saúde: +10
+Vitalidade: +10
+</name>
+</text>
+
+<!--Searchlight Set-->
+<text>
+	<id>727</id>
+	<name>Um tripé de holofote e os faróis que ficam na parte superior podem iluminar grandes áreas quando alimentados por um gerador.
+
+Implante no solo e alimente usando um gerador
+Pode ser implantado em bunkers
+</name>
+</text>
+
+<text>
+	<id>728</id>
+	<name>
+</name>
+</text>
+
+<!--VOG-25 Khatabka-->
+<text>
+	<id>729</id>
+	<name>Uma versão modificada de granada de mão da granada VOG-25, uma engenhosidade russa caseira.
+</name>
+</text>
+
+<!--FNX 45-->
+<text>
+	<id>730</id>
+	<name>Uma pistola de dupla ação com ergonomia altamente aprimorada.
+Dano: 21-35
+Dispersão: 20-6
+Velocidade de mira: 4
+Recuo: 9
+Penalidade de Movimento: 2
+Munição: .45 ACP
+Capacidade do pente: 15
+</name>
+</text>
+
+<!--Colt 1911-->
+<text>
+	<id>731</id>
+	<name>"Deus criou os homens, Colt os tornou iguais"
+Dano: 18-30
+Dispersão: 20-6
+Velocidade de mira: 4
+Recuo: 10
+Penalidade de Movimento: 2
+Munição: .45 ACP
+Capacidade do pente: 7
+</name>
+</text>
+
+<!--Magnum Revolver-->
+<text>
+	<id>732</id>
+	<name>Revólver de dupla ação de seis tiros, pode causar danos excepcionais.
+Dano: 34-56
+Dispersão: 20-6
+Velocidade de mira: 2
+Recuo: 15
+Penalidade de Movimento: 3
+Munição: .357
+Capacidade do pente: 6
+</name>
+</text>
+
+<!--Glock 17-->
+<text>
+	<id>733</id>
+	<name>Acessível, confiável e compacto, é muito popular nos EUA.
+Dano: 15-25
+Dispersão: 20-5
+Velocidade de mira: 4
+Recuo: 10
+Penalidade de Movimento: 2
+Munição: 9x19
+Capacidade do pente: 18
+</name>
+</text>
+
+<!--Amphibia S-->
+<text>
+	<id>734</id>
+	<name>A AWC TM-Amphibian S é uma variante integralmente suprimida da pistola Ruger Mk II Target .22 LR.
+Dano: 11-19
+Dispersão: 20-4
+Velocidade de mira: 4
+Recuo: 9
+Penalidade de Movimento: 3
+Munição: 22 LR
+Capacidade do pente: 10
+</name>
+</text>
+
+<!--Sawn-Off IZh-43-->
+<text>
+	<id>735</id>
+	<name>Espingarda serrada de cano duplo e break-action.
+Dano: 22-188
+Dispersão: 30-13
+Velocidade de mira: 3
+Recuo: 20
+Penalidade de Movimento: 2
+Munição: 12 Cal
+Capacidade do pente: 2
+</name>
+</text>
+
+<!--Sawn-Off Mosin-->
+<text>
+	<id>736</id>
+	<name>Rifle serrado de cinco tiros, alimentado por carregador interno.
+Dano: 67-113
+Dispersão: 25-12
+Velocidade de mira: 3
+Recuo: 25
+Penalidade de Movimento: 1
+Munição: 7.62x54R
+Capacidade do pente: 5
+</name>
+</text>
+
+<!--Engraved Colt-->
+<text>
+	<id>737</id>
+	<name>Esta variante do potro foi meticulosamente gravada.
+Dano: 18-30
+Dispersão: 20-5
+Velocidade de mira: 4
+Recuo: 10
+Penalidade de Movimento: 2
+Munição: .45 ACP
+Capacidade do pente: 12
+</name>
+</text>
+
+<!--Mare's Leg-->
+<text>
+	<id>738</id>
+	<name>"Este é um país selvagem aqui, senhora." -Josh Randall
+Dano: 34-56
+Dispersão: 25-11
+Velocidade de mira: 3
+Recuo: 17
+Penalidade de Movimento: 2
+Munição: .357
+Capacidade do pente: 7
+</name>
+</text>
+
+<!--PM-->
+<text>
+	<id>739</id>
+	<name>A pistola Makarov, ou PM, é uma pistola semiautomática soviética conhecida por sua simplicidade, robustez e confiabilidade.
+Dano: 18-30
+Dispersão: 20-8
+Velocidade de mira: 4
+Recuo: 10
+Penalidade de Movimento: 2
+Munição: 9x18
+Capacidade do pente: 8
+</name>
+</text>
+
+<!--PB-->
+<text>
+	<id>740</id>
+	<name>Uma pistola semiautomática soviética totalmente suprimida desenvolvida para operações especiais secretas da KGB e Spetsnaz.
+Dano: 18-30
+Dispersão: 20-9
+Velocidade de mira: 4
+Recuo: 8
+Penalidade de Movimento: 2
+Munição: 9x18
+Capacidade do pente: 8
+</name>
+</text>
+
+<!--Desert Eagle-->
+<text>
+	<id>741</id>
+	<name>Uma arma icônica, conhecida por sua aparência grande e distinta e alto poder de parada.
+Dano: 30-50
+Dispersão: 20-6
+Velocidade de mira: 3
+Recuo: 13
+Penalidade de Movimento: 2
+Munição: .357
+Capacidade do pente: 9
+</name>
+</text>
+
+<!--M79-->
+<text>
+	<id>742</id>
+	<name>Lançador de granadas de ação rápida. Pode parecer antiquado, mas ainda assim eficaz.
+Dano: 45-855
+Dispersão: 30-8
+Velocidade de mira: 3
+Recuo: 6
+Penalidade de Movimento: 2
+Munição: 40mm grenade
+Capacidade do pente: 1
+</name>
+</text>
+
+<!--Sawn-Off Blaze-->
+<text>
+	<id>743</id>
+	<name>Rifle serrado de cano duplo e break-action.
+Dano: 64-106
+Dispersão: 25-12
+Velocidade de mira: 3
+Recuo: 10
+Penalidade de Movimento: 2
+Munição: .308
+Capacidade do pente: 2
+</name>
+</text>
+
+<!--Longhorn-->
+<text>
+	<id>744</id>
+	<name>Pistola de caça com ação de quebra de tiro único. Adequado para caça, vem com mira integrada.
+Dano: 67-113
+Dispersão: 20-1
+Velocidade de mira: 2
+Recuo: 25
+Penalidade de Movimento: 2
+Munição: .308
+Capacidade do pente: 1
+Chance de tiro na cabeça: +15%
+</name>
+</text>
+
+<!--MAC-10-->
+<text>
+	<id>745</id>
+	<name>A Corporação de Armamento Militar modelo 10 ou MAC-10. Uma submetralhadora compacta.
+Dano: 15-25
+Dispersão: 20-10
+Velocidade de mira: 3
+Recuo: 2
+Penalidade de Movimento: 0
+Taxa de disparo: 650 RPM
+Munição: 9x19
+Capacidade do pente: 30
+</name>
+</text>
+
+<!--Mini-UZI-->
+<text>
+	<id>746</id>
+	<name>Uma versão menor e mais compacta da submetralhadora UZI original.
+Dano: 18-30
+Dispersão: 20-10
+Velocidade de mira: 3
+Recuo: 2
+Penalidade de Movimento: 0
+Taxa de disparo: 600 RPM
+Munição: .45 ACP
+Capacidade do pente: 22
+</name>
+</text>
+
+<!--Munição MG32-->
+<text>
+		<id>747</id>
+		<name>Munição de metralhadora de alto calibre projetada para fogo sustentado e alto dano.
+
+Alojado em: MG32
+Pilha máxima:40
+		</name>
+	</text>
+
+<!--Munição V94-->
+	<text>
+		<id>748</id>
+		<name>Cartucho de rifle de precisão de grande calibre. Projetado para alcance, penetração e precisão extremos.
+
+Alojado em: V94
+Pilha máxima:40
+		</name>
+	</text>
+
+<!--Munição PPSh-14-->
+	<text>
+		<id>749</id>
+		<name>Cartucho de pistola Tokarev 7,62x25mm. Geralmente usada em submetralhadoras, conhecido por sua alta cadência de tiro e forte desempenho em curto alcance.
+
+Alojado em: PPSh
+Pilha máxima:40
+		</name>
+	</text>
+
+	<text>
+		<id>750</id>
+		<name>Uma placa de metal, uma coisa útil em casa.
+Você pode usá-lo para fazer uma carcaça para uma fornalha
+		</name>
+	</text>
+
+	<text>
+		<id>751</id>
+		<name>Um corpo primitivo para um fogão, você precisa encontrar um cano.
+Para remover fumaça
+		</name>
+	</text>
+
+	<text>
+		<id>752</id>
+		<name>Um tubo de ferro é útil para fazer uma chaminé. Ou para outros assuntos
+		</name>
+	</text>
+
+	<text>
+		<id>753</id>
+		<name>Precisamos encontrar lenha e montar esse fogão
+		</name>
+	</text>
+
+	<text>
+		<id>754</id>
+		<name>Tenho tudo o que é necessário para instalar o fogão
+		</name>
+	</text>
+
+	<text>
+		<id>755</id>
+		<name>Uma pilha de lenha, você pode colocá-la no chão ou fazê-la.
+Fogueira grande
+		</name>
+	</text>
+
+	<text>
+		<id>756</id>
+		<name>Tijolo vermelho, comido pelo tempo
+		</name>
+	</text>
+
+	<text>
+		<id>757</id>
+		<name>Um grande kit de ignição construído para condições adversas. Fornece calor forte e duradouro para cozinhar e sobreviver
+		</name>
+	</text>
+
+	<text>
+		<id>758</id>
+		<name>Pêssegos em conserva do velho mundo. Doce, farto e um raro conforto entre as ruínas.
+
+Comida +35
+Água +30
+		</name>
+	</text>
+
+	<text>
+		<id>759</id>
+		<name>Cogumelos vermelhos brilhantes encontrados na natureza. Tóxico se mal utilizado, mas conhecido por seus efeitos estranhos.
+
+Se você comer isso, qualquer coisa pode acontecer
+Pilha máxima: 10
+		</name>
+	</text>
+
+	<text>
+		<id>760</id>
+		<name>Um pequeno recipiente usado para armazenar alimentos frescos. Ajuda a manter os suprimentos organizados e comestíveis por mais tempo.
+
+Comida +25
+Água +25
+Pilha máxima: 10
+
+		</name>
+	</text>
+
+	<text>
+		<id>761</id>
+		<name>Um pequeno saco usado para armazenar cerejas. Pode conter até 40 frutas para facilitar o transporte
+		</name>
+	</text>
+
+	<text>
+		<id>762</id>
+		<name>Uma bebida energética açucarada com um toque forte. Restaura a resistência e mantém você em movimento quando a exaustão chega.
+
+Água +30
+		</name>
+	</text>
+
+	<text>
+		<id>763</id>
+		<name>Cigarros fortes e duradouros. Acalma os nervos e diminui o estresse por mais tempo.
+
+Pilha máxima: 10
+		</name>
+	</text>
+
+	<text>
+		<id>764</id>
+		<name>Uma refrescante bebida engarrafada. Restaura uma boa quantidade de hidratação quando a água é escassa.
+
+Água +30
+		</name>
+	</text>
+
+	<text>
+		<id>765</id>
+		<name>Uma barra de chocolate rara da pré-guerra. Amargo, rico em energia e surpreendentemente reconfortante em um mundo destruído.
+
+Comida +15
+Água -5
+		</name>
+	</text>
+
+	<text>
+		<id>766</id>
+		<name>Uma barra de chocolate doce que fornece energia rápida e um breve impulso moral.
+
+Comida +20
+Água -7
+		</name>
+	</text>
+
+	<text>
+		<id>767</id>
+		<name>Uma bebida alcoólica forte. Aquece o corpo, alivia a dor e entorpece os nervos.
+
+Água +20
+Calor +45
+		</name>
+	</text>
+
+	<text>
+		<id>768</id>
+		<name>Uma bebida láctea fermentada. Restaura a hidratação e proporciona nutrição leve.
+
+Água +25
+Comida +10
+		</name>
+	</text>
+
+	<text>
+		<id>769</id>
+		<name>Bebida energética com sabor levemente adocicado, projetada para aumentar a energia e a concentração rapidamente.
+
+Água +35
+Velocidade +35
+		</name>
+	</text>
+
+	<text>
+		<id>770</id>
+		<name>Uma pequena bebida que restaura rapidamente a hidratação. Simples, mas eficaz para mantê-lo ativo.
+
+Água +30
+Velocidade +30
+		</name>
+	</text>
+
+	<text>
+		<id>771</id>
+		<name>Uma bebida cítrica doce. Restaura a hidratação, proporciona boa nutrição e tem um sabor surpreendentemente refrescante em um mundo difícil.
+
+Comida +5
+Água +45
+		</name>
+	</text>
+
+	<text>
+		<id>772</id>
+		<name>Uma pasta rica e cremosa que nutre e satisfaz. Delicioso, mas reduz ligeiramente a hidratação.
+
+Comida +80
+Água -15
+		</name>
+	</text>
+
+	<text>
+		<id>773</id>
+		<name>Lanche crocante e salgado. Fornece um rápido aumento de energia e tem um sabor irresistivelmente bom.
+
+Comida +24
+		</name>
+	</text>
+
+	<text>
+		<id>774</id>
+		<name>Uma barra de chocolate e amendoim que sacia rapidamente a fome. Doce, farto e irresistivelmente saboroso.
+
+Comida +20
+		</name>
+	</text>
+
+	<text>
+		<id>775</id>
+		<name>Pêssegos em conserva em uma jarra. Doce, nutritivo e um deleite raro em tempos difíceis.
+
+Água +15
+Comida + 45
+		</name>
+	</text>
+
+	<text>
+		<id>776</id>
+		<name>Uma bebida doce e efervescente. Refrescante, energizante e uma maneira saborosa de levantar o ânimo.
+
+Água +30
+		</name>
+	</text>
+
+	<text>
+		<id>777</id>
+		<name>Bebida gaseificada com sabor refrescante de limão, levemente doce e perfeita para matar a sede.
+
+Água +35
+Velocidade +27
+		</name>
+	</text>
+
+	<text>
+		<id>778</id>
+		<name>Uma pequena garrafa de limonada doce. Refrescante, saboroso e perfeito para um rápido reforço de hidratação.
+
+Água +19
+		</name>
+	</text>
+
+	<text>
+		<id>779</id>
+		<name>Tábuas de madeira resistentes. Ideal para construir abrigos ou reforçar estruturas em condições adversas
+		</name>
+	</text>
+
+	<text>
+		<id>780</id>
+		<name>Uma caixa com 250 pregos. Confiável para construção, reparos ou criação de ferramentas e estruturas improvisadas
+		</name>
+	</text>
+
+	<text>
+		<id>781</id>
+		<name>Materiais diversos utilizados para fixação de equipamentos e estruturas. Essencial para manter o equipamento funcional na sobrevivência
+		</name>
+	</text>
+
+	<text>
+		<id>782</id>
+		<name>alimentação +80
+água -10
+sangue +30
+possível envenenamento
+		</name>
+	</text>
+
+	<text>
+		<id>783</id>
+		<name>Um martelo básico com cabo desgastado. Útil para construção e reparos, mas o cabo requer uso cuidadoso
+		</name>
+	</text>
+
+	<text>
+		<id>784</id>
+		<name>Um martelo emparelhado com toras de madeira. Ideal para construir, reparar ou criar estruturas improvisadas
+		</name>
+	</text>
+
+	<text>
+		<id>785</id>
+		<name>Um terreno fértil para aranhas, eu poderia fazer uma pomada curativa, se ao menos me lembrasse de como fazer isso
+		</name>
+	</text>
+
+	<text>
+		<id>786</id>
+		<name>Um kit de primeiros socorros compacto, com suprimentos médicos essenciais. Confiável e capaz de salvar vidas em momentos críticos.
+
+Trata envenenamento
+Saúde + 70
+		</name>
+	</text>
+
+	<text>
+		<id>787</id>
+		<name>Um pedaço de pão branco recém-assado. Nutritivo, farto e surpreendentemente reconfortante.
+
+Comida +45
+Água -3
+Saúde +5
+		</name>
+	</text>
+
+	<text>
+		<id>788</id>
+		<name>Parece uma comida enlatada inteira sem rótulo, há quanto tempo está aqui?
+
+Comida +55
+Água +15
+50% de chance de ficar doente após o consumo
+		</name>
+	</text>
+
+	<text>
+		<id>789</id>
+		<name>Mel de tília dourada. Doce, nutritivo e um deleite raro em condições de sobrevivência.
+
+Comida +80
+Água -30
+Saúde +10
+		</name>
+	</text>
+
+	<text>
+		<id>790</id>
+		<name>Uma poção de recuperação que ajuda o corpo a se curar e recuperar forças após ferimentos.
+
+Comida +3
+Água +30
+Saúde +15
+Calor +15
+Duração do efeito: 20 seg
+		</name>
+	</text>
+
+	<text>
+		<id>791</id>
+		<name>Biscoitos crocantes de aveia. Lanche nutritivo, doce e satisfatório para dias difíceis.
+
+Comida +35
+		</name>
+	</text>
+
+	<text>
+		<id>792</id>
+		<name>Um pequeno comprimido medicinal. Fornece nutrientes essenciais e ajuda na desintoxicação.
+
+Ajuda com envenenamento
+Saúde +10
+Duração do efeito: 20 seg
+		</name>
+	</text>
+
+	<text>
+		<id>793</id>
+		<name>Uma rica barra de chocolate com waffles crocantes com nozes. Nutritivo, doce e irresistivelmente saboroso.
+
+Comida +25
+Água -2
+		</name>
+	</text>
+
+	<text>
+		<id>794</id>
+		<name>Pastilhas de cloro para purificar água suja. Essencial para uma hidratação segura em situações de sobrevivência
+		</name>
+	</text>
+
+	<text>
+		<id>795</id>
+		<name>
+			???
+		</name>
+	</text>
+
+	<text>
+		<id>796</id>
+		<name>Carne crua de lobo
+pode ser envenenado
+Alimentação +20
+água +10
+		</name>
+	</text>
+
+	<text>
+		<id>797</id>
+		<name>Carne de lobo frita
+alimentação +40
+água +5
+sangue +10
+		</name>
+	</text>
+
+	<text>
+		<id>798</id>
+		<name>①Carne humana
+pode ser envenenado
+alimentação +60
+água +15
+		</name>
+	</text>
+
+	<text>
+		<id>799</id>
+		<name>Leite condensado rico e doce "Arkhangelskaya". Extremamente nutritivo e altamente eficaz, um verdadeiro salva-vidas em qualquer situação de sobrevivência.
+
+Comida +100
+Água +100
+Calor +100
+Saúde +100
+Velocidade +100
+Regeneração de saúde: 2 minutos
+		</name>
+	</text>
+
+	<text>
+		<id>800</id>
+		<name>Um farto prato de espaguete com rico molho carbonara. Extremamente satisfatório, nutritivo e um deleite raro para a sobrevivência.
+
+Comida +100
+Água +100
+Calor +100
+Saúde +100
+Velocidade +100
+Regeneração de saúde: 2 minutos
+		</name>
+	</text>
+
+	<text>
+		<id>801</id>
+		<name>Uma seleção de carnes fatiadas. Saboroso, farto e uma fonte conveniente de nutrição em condições adversas.
+
+Comida +45
+Água +5
+		</name>
+	</text>
+
+	<text>
+		<id>802</id>
+		<name>Uma lata de carne de porco em conserva. Farto, saboroso e uma fonte confiável de nutrição quando os alimentos frescos são escassos.
+
+Comida +50
+		</name>
+	</text>
+
+	<text>
+		<id>803</id>
+		<name>Uma lata de comida de cachorro. Nutritivo e destinado exclusivamente a companheiros leais – apenas a bons meninos.
+
+Sabor galinha
+Comida +60
+Água -40
+		</name>
+	</text>
+
+	<text>
+		<id>804</id>
+		<name>Um foguete altamente explosivo projetado para lançadores de RPG. Extremamente perigoso, capaz de causar destruição massiva
+		</name>
+	</text>
+
+	<text>
+		<id>805</id>
+		<name>Uma barra compacta repleta de nutrientes. Restaura rapidamente a resistência e proporciona um impulso saboroso em situações de sobrevivência.
+
+Comida +10
+Água -2
+Velocidade +10
+Pilha máxima: 10
+		</name>
+	</text>
+
+	<text>
+		<id>806</id>
+		<name>Um pacote de cereais, há muito esquecido e coberto de poeira. Ainda comestível e uma fonte muito boa de nutrição.
+
+Comida +50
+Água -23
+		</name>
+	</text>
+
+	<text>
+		<id>807</id>
+		<name>Carne de lobo crua recentemente colhida. Nutritivo, mas deve ser cozinhado antes de ser consumido com segurança.
+
+Comida +20
+Água +10
+50% de chance de ficar doente após o consumo
+		</name>
+	</text>
+
+	<text>
+		<id>808</id>
+		<name>Carne de lobo assada. Nutritivo, saboroso e seguro para comer após cozimento adequado.
+
+Comida +40
+Água +5
+Saúde +10
+
+		</name>
+	</text>
+
+	<text>
+		<id>809</id>
+		<name>Uma cidra de maçã crocante. Doce, refrescante e perfeito para misturar com vodka para uma bebida mais forte.
+
+Água +38
+Calor +30
+Saúde +10
+		</name>
+	</text>
+
+	<text>
+		<id>810</id>
+		<name>Uma vodka forte e cristalina, com ardor intenso. Potente e implacável, deve ser consumida com cuidado.
+
+Água +40
+Comida+2
+		</name>
+	</text>
+
+</list> +40
+Comida+2
+		</name>
+	</text>
+
+</list>

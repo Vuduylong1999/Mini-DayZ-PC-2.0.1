@@ -1,0 +1,29 @@
+# ===== NW.js runtime & binaries (tải lại được, không phải source) =====
+*.dll
+*.exe
+*.pak
+*.dat
+*.bin
+nwjc
+locales/
+swiftshader/
+pnacl/
+*.nexe
+
+# ===== Cloud save (repo git riêng, không thuộc repo game) =====
+/cloudsave/
+
+# ===== Dependencies =====
+node_modules/
+
+# ===== Cache / temp =====
+cache/
+*.bak
+*.log
+
+# ===== OS / editor =====
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
