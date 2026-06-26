@@ -17,7 +17,7 @@
 	// Thư mục repo git chứa save.json (mặc định: <thư mục game>/cloudsave).
 	// Phải là 1 git repo đã có remote, đăng nhập sẵn trên cả 2 máy.
 	var REPO_DIRNAME = "cloudsave";
-	var SAVE_FILE    = "save.json";
+	var SAVE_FILE    = "save-2.0.1.json";
 	var GIT_TIMEOUT  = 30000; // ms cho mỗi lệnh git
 	// ====================================================
 

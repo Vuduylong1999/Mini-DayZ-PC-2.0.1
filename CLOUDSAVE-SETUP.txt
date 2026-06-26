@@ -2,41 +2,27 @@
   CLOUD SAVE — MDZ DS HARD 2.0.1
 ================================================================
 
-LƯU Ý: Bản DS HARD này có KHO SAVE RIÊNG, độc lập với 1.9.4/1.9.8.
-  (đã đổi "name" trong package.json -> "MDZPlus-DSHARD"
-   -> lưu ở %LOCALAPPDATA%\MDZPlus-DSHARD, KHÔNG đụng tiến trình bản thường.)
-  Đây là một lượt chơi "clean" riêng cho chế độ khó.
+CẢ 3 BẢN DÙNG CHUNG 1 REPO SAVE: Mini-DayZ-PC-save
+  nhưng mỗi bản ghi 1 FILE RIÊNG (không đè nhau):
+     1.9.4         -> save-1.9.4.json
+     1.9.8         -> save-1.9.8.json
+     DS HARD 2.0.1 -> save-2.0.1.json   <-- bản này
 
-  => Cloud save của bản này phải dùng MỘT REPO GIT RIÊNG
-     (KHÔNG dùng chung Mini-DayZ-PC-save của bản thường).
+LƯU Ý: DS HARD có KHO SAVE RIÊNG ở máy (name "MDZPlus-DSHARD"),
+  tiến trình/unlock ĐỘC LẬP với bản thường -> lượt chơi "clean" chế độ khó.
 
 CÀI ĐẶT (1 lần, trên CẢ HAI máy):
 
-  1) Tạo 1 repo GitHub mới TRỐNG, vd:
-       https://github.com/Vuduylong1999/Mini-DayZ-DSHARD-save.git
+  cd "D:\MDZ DS HARD 2.0.1 PC"
+  git clone https://github.com/Vuduylong1999/Mini-DayZ-PC-save.git cloudsave
 
-  2) Trên MÁY A:
-       cd "D:\MDZ DS HARD 2.0.1 PC"
-       git clone https://github.com/Vuduylong1999/Mini-DayZ-DSHARD-save.git cloudsave
-     Nếu repo trống, tạo nhánh main + mốc đầu:
-       cd cloudsave
-       git checkout -b main
-       git commit --allow-empty -m "init"
-       git push -u origin main
-       cd ..
-
-  3) Trên MÁY B: clone y hệt repo DSHARD vào <thư mục game>\cloudsave.
+  (Clone đúng repo Mini-DayZ-PC-save. Bản này sẽ tự tạo/ghi file
+   save-2.0.1.json trong đó, không đụng save của 1.9.4 / 1.9.8.)
 
 Cần đăng nhập git sẵn để khỏi hỏi mật khẩu.
-
 Từ đó: mở/tắt game bình thường. Tắt -> tự push, mở -> tự pull.
-Chi tiết cơ chế: xem mod/CLOUDSAVE-README.txt.
 
 ĐIỀU KHIỂN (đã map giống 1.9.4):
   Chuột phải = bắn | R = nạp đạn | E/F = nhặt đồ | Tab = túi đồ
   Q = đổi vũ khí | C = pad | Esc = menu | +/- = zoom
-
-QUAN TRỌNG — tách biệt hoàn toàn:
-  - Save bản này nằm ở %LOCALAPPDATA%\MDZPlus-DSHARD (không phải MDZPlus-Windows).
-  - Unlock/achievement KHÔNG dùng chung với bản thường (chơi lại từ đầu ở chế độ khó).
 ================================================================
