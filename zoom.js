@@ -61,10 +61,10 @@
         
         ui.innerHTML = `
             <div onclick="window.applyGameZoom(${STEP})" style="${btnStyle}" onmousedown="this.style.transform='scale(0.9)'" onmouseup="this.style.transform='scale(1)'">
-                <img src="images/zoom_in-sheet0.png" style="width:100%; height:100%; object-fit:contain;" onerror="this.innerText='+'">
+                <img src="myImages/Zoom_in.png" style="width:100%; height:100%; object-fit:contain;">
             </div>
             <div onclick="window.applyGameZoom(-${STEP})" style="${btnStyle}" onmousedown="this.style.transform='scale(0.9)'" onmouseup="this.style.transform='scale(1)'">
-                <img src="images/zoom_out-sheet0.png" style="width:100%; height:100%; object-fit:contain;" onerror="this.innerText='-'">
+                <img src="myImages/Zoom_out.png" style="width:100%; height:100%; object-fit:contain;">
             </div>
         `;
         document.body.appendChild(ui);
