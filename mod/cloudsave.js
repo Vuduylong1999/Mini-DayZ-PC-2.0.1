@@ -40,13 +40,28 @@
 	function log()  { console.log.apply(console, ["[cloudsave]"].concat([].slice.call(arguments))); }
 	function warn() { console.warn.apply(console, ["[cloudsave]"].concat([].slice.call(arguments))); }
 
+	// Env cấm git BẬT hỏi mật khẩu (nếu không sẽ TREO chờ nhập -> game đứng).
+	var GIT_ENV = Object.assign({}, process.env, {
+		GIT_TERMINAL_PROMPT: "0",      // không hỏi user/pass ở terminal
+		GCM_INTERACTIVE: "never",      // Git Credential Manager không bật popup
+		GIT_ASKPASS: "echo"            // fallback: trả rỗng thay vì chờ
+	});
+
 	function git(args) {
 		return cp.execSync("git " + args, {
 			cwd: REPO_DIR, encoding: "utf8", timeout: GIT_TIMEOUT,
-			stdio: ["ignore", "pipe", "pipe"]
+			stdio: ["ignore", "pipe", "pipe"], env: GIT_ENV
 		});
 	}
 	function gitSafe(args) { try { return git(args); } catch (e) { warn("git " + args + " lỗi:", (e.message || e)); return null; } }
+
+	// Bản BẤT ĐỒNG BỘ: KHÔNG khóa luồng chính (UI không đứng khi mở game).
+	function gitAsync(args) {
+		return new Promise(function (resolve) {
+			cp.exec("git " + args, { cwd: REPO_DIR, encoding: "utf8", timeout: GIT_TIMEOUT, env: GIT_ENV },
+				function (err, stdout) { if (err) warn("git " + args + " lỗi:", (err.message || err)); resolve(err ? null : stdout); });
+		});
+	}
 
 	/* ---------- mã hoá giá trị (kể cả Blob/ArrayBuffer) sang JSON ---------- */
 	function abToB64(buf) {
@@ -184,7 +199,7 @@
 			warn("Chưa có thư mục repo:", REPO_DIR, "- bỏ qua. Xem hướng dẫn cài đặt.");
 			sessionStorage.setItem(SYNCED_FLAG, "1"); attachCloseHook(); return;
 		}
-		gitSafe("pull --ff-only");
+		await gitAsync("pull --ff-only");   // BẤT ĐỒNG BỘ -> không làm đứng game lúc load
 
 		if (fs.existsSync(SAVE_PATH)) {
 			try {
